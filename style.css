@@ -1,0 +1,191 @@
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f5f5f7;
+    color: #1d1d1f;
+    line-height: 1.6;
+}
+.container {
+    display: flex;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+}
+.sidebar-wrapper {
+    width: 320px;
+    flex-shrink: 0;
+}
+.sidebar {
+    position: fixed;
+    top: 20px;
+    width: 340px;
+    height: calc(100vh - 40px);
+    overflow-y: auto;
+    padding-left: 10px;
+    padding-right: 30px;
+    overscroll-behavior: contain;
+    z-index: 100;
+}
+.sidebar-header {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+}
+.sidebar-logo {
+    height: 26px;
+    width: auto;
+    display: block;
+}
+.sidebar-subtitle {
+    font-size: 13px;
+    color: #86868b;
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", sans-serif;
+    font-weight: 300;
+    margin-bottom: 1px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+.nav-year {
+    font-size: 16px;
+    font-weight: 800;
+    color: #1d1d1f;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    letter-spacing: 0.5px;
+    position: relative;
+    padding-left: 2px;
+}
+.nav-year:first-of-type {
+    margin-top: 0;
+}
+.timeline {
+    list-style: none;
+    position: relative;
+    padding-left: 15px;
+}
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 10px;
+    bottom: 10px;
+    width: 2px;
+    background-color: #f0f0f0;
+    border-radius: 2px;
+}
+.timeline li {
+    margin-bottom: 24px;
+    position: relative;
+}
+.timeline li a {
+    text-decoration: none;
+    color: #86868b;
+    font-size: 13.5px;
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", sans-serif;
+    font-weight: 300;
+    transition: all 0.3s ease;
+    display: block;
+    padding-left: 12px;
+    white-space: normal;
+    word-break: break-word;
+    text-wrap: pretty;
+    line-height: 1.6;
+}
+.timeline li::before {
+    content: '';
+    position: absolute;
+    left: -19.5px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    border: 2px solid #e0e0e0;
+    background-color: #f5f5f7;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.timeline li.active a {
+    color: #00A99D;
+    font-weight: 600;
+}
+.timeline li.active::before {
+    background-color: #00A99D;
+    border-color: #00A99D;
+    box-shadow: 0 0 0 4px rgba(0, 169, 157, 0.15);
+}
+.timeline li a:hover {
+    color: #1d1d1f;
+    font-weight: 600;
+}
+.content {
+    padding-left: 40px;
+    max-width: 1000px;
+    padding-bottom: 80vh;
+}
+.main-header {
+    margin-bottom: 50px;
+}
+.main-header h1 {
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: -1px;
+}
+.main-header p {
+    color: #86868b;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.card {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 20px;
+    padding: 40px;
+    margin-bottom: 60px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    border: 1px solid rgba(255,255,255,0.4);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.08);
+}
+.card-header h2 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.placeholder p {
+    color: #86868b;
+    font-size: 15px;
+    text-align: center;
+    padding: 20px;
+    background: #fbfbfd;
+    border-radius: 12px;
+}
+.image-gallery {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.image-gallery img {
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+@media (max-width: 900px) {
+    .container { flex-direction: column; }
+    .sidebar-wrapper { width: 100%; height: auto; }
+    .sidebar { width: 100%; height: auto; position: static; border-right: none; margin-bottom: 30px; }
+    .content { padding-left: 0; }
+}
