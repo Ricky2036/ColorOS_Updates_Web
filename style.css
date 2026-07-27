@@ -22,6 +22,7 @@ body {
     width: 100%;
     height: 100%;
     overflow-y: auto;
+    padding-left: 10px;
     padding-right: 20px;
 }
 .sidebar-header {
@@ -125,6 +126,24 @@ body {
     box-shadow: 0 10px 30px rgba(0,0,0,0.05);
     border: 1px solid rgba(255,255,255,0.4);
     overflow: hidden;
+    position: relative;
+}
+.loader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40px;
+    height: 40px;
+    border: 3px solid rgba(0, 169, 157, 0.2);
+    border-radius: 50%;
+    border-top-color: #00A99D;
+    animation: spin 1s ease-in-out infinite;
+    display: none;
+    z-index: 10;
+}
+@keyframes spin {
+    to { transform: translate(-50%, -50%) rotate(360deg); }
 }
 #content_frame {
     width: 100%;

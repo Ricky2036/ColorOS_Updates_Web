@@ -13,7 +13,9 @@
         ::-webkit-scrollbar { width: 0; height: 0; }
         /* Interactive content wrapper fixes */
         .interactive-container { max-width: 1080px; margin: 0 auto; }
-        /* If original SVG had 100% width, it scales properly here */
+        /* Hide WeChat profile widgets and empty spacers which create huge blank spaces */
+        mp-common-profile, .mp_profile_iframe { display: none !important; height: 0 !important; }
+        section[style*="opacity: 0"] { display: none !important; height: 0 !important; margin: 0 !important; padding: 0 !important; }
     </style>
 </head>
 <body>

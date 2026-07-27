@@ -7,6 +7,10 @@ document.addEventListener('DOMContentLoaded', () => {
         anchor.addEventListener('click', function() {
             navItems.forEach(item => item.classList.remove('active'));
             this.parentElement.classList.add('active');
+            
+            // Show loader
+            const loader = document.getElementById('loader');
+            if (loader) loader.style.display = 'block';
         });
     });
 });
