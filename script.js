@@ -61,4 +61,9 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
     });
+
+    // Fix WeChat interactive images that rely on data-lazy-bgimg
+    document.querySelectorAll('[data-lazy-bgimg]').forEach(el => {
+        el.style.backgroundImage = `url('${el.getAttribute('data-lazy-bgimg')}')`;
+    });
 });
