@@ -212,15 +212,15 @@ body {
 }
 
 /* Image Loading State */
-@keyframes imgPulse {
-    0% { background-color: #f5f5f5; }
-    50% { background-color: #e0e0e0; }
-    100% { background-color: #f5f5f5; }
+@keyframes imgSpin {
+    100% { transform: rotate(360deg); }
 }
 .img-loading {
-    background-image: none !important;
-    background-color: #f5f5f5 !important;
-    animation: imgPulse 1.5s infinite ease-in-out !important;
+    background-color: #fafafa !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50'%3E%3Cpath fill='%23cccccc' d='M25,5A20.14,20.14,0,0,1,45,22.88a2.51,2.51,0,0,0,2.49,2.26h0A2.52,2.52,0,0,0,50,22.33a25.14,25.14,0,0,0-50,0,2.52,2.52,0,0,0,2.5,2.81h0A2.51,2.51,0,0,0,5,22.88,20.14,20.14,0,0,1,25,5Z'%3E%3CanimateTransform attributeName='transform' type='rotate' from='0 25 25' to='360 25 25' dur='0.8s' repeatCount='indefinite'/%3E%3C/path%3E%3C/svg%3E") !important;
+    background-size: 40px 40px !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
 }
 
 /* ── Article Card ── */

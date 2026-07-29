@@ -50,6 +50,10 @@ document.addEventListener('DOMContentLoaded', () => {
                             el.style.setProperty('background-image', `url('${bgUrl}')`, 'important');
                             el.classList.remove('img-loading');
                         };
+                        img.onerror = () => {
+                            el.classList.remove('img-loading');
+                            el.style.backgroundColor = '#f8f8f8'; // Failsafe blank
+                        };
                         img.src = bgUrl;
                     }
                 });
@@ -58,6 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 lazyImgs.forEach(img => {
                     img.classList.add('img-loading');
                     img.onload = () => img.classList.remove('img-loading');
+                    img.onerror = () => img.classList.remove('img-loading');
                     img.src = img.getAttribute('data-src');
                 });
                 
