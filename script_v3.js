@@ -39,6 +39,20 @@ document.addEventListener('DOMContentLoaded', () => {
             if(articleContainer) {
                 articleContainer.innerHTML = htmlContent;
                 
+                // Fix WeChat lazy-loaded images and backgrounds
+                const lazyBgs = articleContainer.querySelectorAll('[data-lazy-bgimg]');
+                lazyBgs.forEach(el => {
+                    const bgUrl = el.getAttribute('data-lazy-bgimg');
+                    if (bgUrl) {
+                        el.style.backgroundImage = `url('${bgUrl}')`;
+                    }
+                });
+                
+                const lazyImgs = articleContainer.querySelectorAll('img[data-src]');
+                lazyImgs.forEach(img => {
+                    img.src = img.getAttribute('data-src');
+                });
+                
                 // Execute any scripts (if any)
                 const scripts = articleContainer.querySelectorAll('script');
                 scripts.forEach(oldScript => {
