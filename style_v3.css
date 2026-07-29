@@ -204,14 +204,11 @@ body {
 }
 #article_container::-webkit-scrollbar { width: 0; height: 0; }
 
-/* Interactive horizontal scroller fix */
+/* Interactive horizontal scroller fix (Hidden as requested) */
 .interactive-container section[style*="overflow-x: scroll"]::-webkit-scrollbar {
-    height: 8px;
-    background: #f0f0f0;
-}
-.interactive-container section[style*="overflow-x: scroll"]::-webkit-scrollbar-thumb {
-    background: #c0c0c0;
-    border-radius: 4px;
+    width: 0;
+    height: 0;
+    display: none;
 }
 
 /* ── Article Card ── */
