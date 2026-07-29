@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 lazyBgs.forEach(el => {
                     const bgUrl = el.getAttribute('data-lazy-bgimg');
                     if (bgUrl) {
-                        el.style.backgroundImage = `url('${bgUrl}')`;
+                        el.style.setProperty('background-image', `url('${bgUrl}')`, 'important');
                     }
                 });
                 

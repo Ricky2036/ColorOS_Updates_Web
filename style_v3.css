@@ -204,6 +204,16 @@ body {
 }
 #article_container::-webkit-scrollbar { width: 0; height: 0; }
 
+/* Interactive horizontal scroller fix */
+.interactive-container section[style*="overflow-x: scroll"]::-webkit-scrollbar {
+    height: 8px;
+    background: #f0f0f0;
+}
+.interactive-container section[style*="overflow-x: scroll"]::-webkit-scrollbar-thumb {
+    background: #c0c0c0;
+    border-radius: 4px;
+}
+
 /* ── Article Card ── */
 .card-header {
     padding: 25px 0 15px 0;
