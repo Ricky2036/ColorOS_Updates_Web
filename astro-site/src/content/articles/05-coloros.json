@@ -1,0 +1,51 @@
+{
+  "articleId": "OPPO_ColorOS_一月系统升级一览",
+  "order": 5,
+  "title": "OPPO ColorOS 一月系统升级一览",
+  "brand": "coloros",
+  "year": 2026,
+  "publishedAt": "2026-01-01",
+  "slug": "05-oppo-coloros",
+  "kind": "gallery",
+  "legacyPath": "OPPO_ColorOS_一月系统升级一览.html",
+  "html": "<section class=\"card\">\n                <div class=\"card-body\">\n          <div class=\"image-gallery\">\n            <img loading=\"eager\" decoding=\"async\" fetchpriority=\"high\" width=\"1080\" height=\"9453\" src=\"../../../assets/responsive/db174ca786dd42e8-960.webp\" alt=\"OPPO ColorOS 一月系统升级一览 更新配图\" srcset=\"../../../assets/responsive/db174ca786dd42e8-480.webp 480w, ../../../assets/responsive/db174ca786dd42e8-960.webp 960w, ../../../assets/responsive/db174ca786dd42e8-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n            <img loading=\"lazy\" decoding=\"async\" width=\"1080\" height=\"8013\" src=\"../../../assets/responsive/8b86f89e870e432e-960.webp\" alt=\"OPPO ColorOS 一月系统升级一览 更新配图\" srcset=\"../../../assets/responsive/8b86f89e870e432e-480.webp 480w, ../../../assets/responsive/8b86f89e870e432e-960.webp 960w, ../../../assets/responsive/8b86f89e870e432e-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n            <img loading=\"lazy\" decoding=\"async\" width=\"1080\" height=\"9341\" src=\"../../../assets/responsive/aa7598ae105a18e8-960.webp\" alt=\"OPPO ColorOS 一月系统升级一览 更新配图\" srcset=\"../../../assets/responsive/aa7598ae105a18e8-480.webp 480w, ../../../assets/responsive/aa7598ae105a18e8-960.webp 960w, ../../../assets/responsive/aa7598ae105a18e8-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n          </div>\n\n        </div>\n    </section>",
+  "cover": {
+    "src": "assets/covers/e0453d7a055a9c5e-1200.webp",
+    "srcset": "assets/covers/e0453d7a055a9c5e-480.webp 480w, assets/covers/e0453d7a055a9c5e-800.webp 800w, assets/covers/e0453d7a055a9c5e-1200.webp 1200w",
+    "avifSrcset": "assets/covers/e0453d7a055a9c5e-480.avif 480w, assets/covers/e0453d7a055a9c5e-800.avif 800w, assets/covers/e0453d7a055a9c5e-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OPPO ColorOS 一月系统升级一览 封面",
+    "dominantColor": "#f8f8e8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "db174ca786dd",
+      "kind": "image",
+      "src": "assets/responsive/db174ca786dd42e8-960.webp",
+      "width": 1080,
+      "height": 9453,
+      "bytes": 433140,
+      "status": "ready"
+    },
+    {
+      "id": "8b86f89e870e",
+      "kind": "image",
+      "src": "assets/responsive/8b86f89e870e432e-960.webp",
+      "width": 1080,
+      "height": 8013,
+      "bytes": 489998,
+      "status": "ready"
+    },
+    {
+      "id": "aa7598ae105a",
+      "kind": "image",
+      "src": "assets/responsive/aa7598ae105a18e8-960.webp",
+      "width": 1080,
+      "height": 9341,
+      "bytes": 681736,
+      "status": "ready"
+    }
+  ]
+}

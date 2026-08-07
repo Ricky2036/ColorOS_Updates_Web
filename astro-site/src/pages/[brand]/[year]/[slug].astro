@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ArchiveNav from '../../../components/ArchiveNav.astro';
+import Icon from '../../../components/Icon.astro';
+import { brandMeta, getArticles, sitePath, type ArchiveArticle, type Brand } from '../../../lib/archive';
+
+export async function getStaticPaths() {
+  return (await getArticles()).map((article) => ({
+    params: { brand: article.data.brand, year: String(article.data.year), slug: article.data.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props as { article: ArchiveArticle };
+const data = article.data;
+const meta = brandMeta[data.brand as Brand];
+const mediaBase = import.meta.env.PUBLIC_MEDIA_BASE_URL?.replace(/\/$/, '');
+const readyVideos = data.media.filter((item) => item.kind === 'video' && item.status === 'ready' && item.src);
+const mediaUrl = (value: string) => `${mediaBase}/${value.split('/').map((part) => encodeURIComponent(part)).join('/')}`;
+const image = data.cover?.src;
+---
+<BaseLayout title={data.title} description={`${data.title}，${meta.name} 系统升级档案。`} brand={data.brand} image={image} articleMeta={{ publishedAt: data.publishedAt, brand: data.brand }} hasArchiveNav>
+  <main class="article-layout">
+    <ArchiveNav brand={data.brand} selectedId={data.articleId} />
+    <article class="article-content">
+      {data.kind === 'gallery' ? (
+        <div class="gallery-shell" data-gallery-shell>
+          <div class="media-loading" role="status"><span class="loading-spinner"></span><span>内容加载中…</span></div>
+          <div class="gallery-content" set:html={data.html} />
+        </div>
+      ) : (
+        <section class="interactive-archive">
+          <div class="compat-frame-shell" data-compat-shell>
+            <div class="frame-loading" role="status"><span class="loading-spinner"></span><span>内容加载中…</span></div>
+            <iframe title={`${data.title} 交互内容`} src={sitePath(data.compatPath)} loading="eager" sandbox="allow-scripts allow-same-origin" referrerpolicy="no-referrer" data-compat-frame data-compat-id={data.slug}></iframe>
+          </div>
+        </section>
+      )}
+
+      {data.experience && mediaBase && (
+        <section class="experience-panel reveal">
+          <p class="eyebrow">功能演示</p>
+          <h2>ColorOS 16 视频档案</h2>
+          <div class="experience-actions">
+            <a class="button button-primary" href={`${mediaBase}/${data.experience.entryPath}`} target="_blank" rel="noopener">浏览视频 <Icon name="arrow" /></a>
+          </div>
+          {readyVideos.length > 0 && (
+            <details class="video-archive">
+              <summary>浏览已归档视频（{readyVideos.length}）</summary>
+              <div class="video-grid">
+                {readyVideos.map((video) => (
+                  <figure><video controls playsinline preload="none"><source src={mediaUrl(video.src!)} type="video/mp4" />您的浏览器暂不支持该视频。</video><figcaption>{decodeURIComponent(video.src!.split('/').at(-1) ?? '体验视频')}</figcaption></figure>
+                ))}
+              </div>
+            </details>
+          )}
+        </section>
+      )}
+      <nav class="article-footer-nav"><a href="#main-content">回到本文顶部 ↑</a></nav>
+    </article>
+  </main>
+</BaseLayout>

@@ -1,0 +1,295 @@
+{
+  "articleId": "新春加“马”！OriginOS_陪你一起过大年",
+  "order": 23,
+  "title": "新春加“马”！OriginOS 陪你一起过大年",
+  "brand": "originos",
+  "year": 2026,
+  "publishedAt": "2026-01-01",
+  "slug": "23-originos",
+  "kind": "interactive",
+  "legacyPath": "新春加“马”！OriginOS_陪你一起过大年.html",
+  "html": "",
+  "compatPath": "compat/originos/23-originos/index.html",
+  "cover": {
+    "src": "assets/covers/c1e112ed18298316-1200.webp",
+    "srcset": "assets/covers/c1e112ed18298316-480.webp 480w, assets/covers/c1e112ed18298316-800.webp 800w, assets/covers/c1e112ed18298316-1200.webp 1200w",
+    "avifSrcset": "assets/covers/c1e112ed18298316-480.avif 480w, assets/covers/c1e112ed18298316-800.avif 800w, assets/covers/c1e112ed18298316-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "新春加“马”！OriginOS 陪你一起过大年 封面",
+    "dominantColor": "#f80818",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "84eafae5a1bb",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d8e3eabe01f68d9c82b1eefac4407172.png",
+      "width": 1080,
+      "height": 825,
+      "bytes": 465457,
+      "status": "ready"
+    },
+    {
+      "id": "0a5e0fa9ee54",
+      "kind": "image",
+      "src": "assets/legacy/interactive/7c8aa76d49bb37c709a17a72b6c773c5.png",
+      "width": 1080,
+      "height": 1704,
+      "bytes": 1167724,
+      "status": "ready"
+    },
+    {
+      "id": "ad8ea876c14a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/22546258291d4029969db1df737f9072.png",
+      "width": 1080,
+      "height": 1586,
+      "bytes": 1809121,
+      "status": "ready"
+    },
+    {
+      "id": "6adf6f2ed8eb",
+      "kind": "image",
+      "src": "assets/legacy/interactive/54c2b8796b40a9f6dd4ec74f429b7cd0.png",
+      "width": 1080,
+      "height": 1262,
+      "bytes": 1526845,
+      "status": "ready"
+    },
+    {
+      "id": "35532b451b03",
+      "kind": "image",
+      "src": "assets/legacy/interactive/54b4b4aedf242103782a5f248ca634f9.png",
+      "width": 1088,
+      "height": 1206,
+      "bytes": 793703,
+      "status": "ready"
+    },
+    {
+      "id": "1de25b87f782",
+      "kind": "animated-image",
+      "src": "assets/legacy/interactive/5fc502d2262e778fcf0b016fe59c3829.gif",
+      "width": 640,
+      "height": 1066,
+      "bytes": 9953010,
+      "status": "ready"
+    },
+    {
+      "id": "689a83a5f3dd",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8e2b6c642bae9966ad70a1d4619b7d5c.png",
+      "width": 1080,
+      "height": 1411,
+      "bytes": 1060761,
+      "status": "ready"
+    },
+    {
+      "id": "4729a2ee9c82",
+      "kind": "image",
+      "src": "assets/legacy/interactive/54792b3ae97bf38dc97e12c5d7db3a1f.png",
+      "width": 1080,
+      "height": 1205,
+      "bytes": 1152397,
+      "status": "ready"
+    },
+    {
+      "id": "bd0177747f12",
+      "kind": "image",
+      "src": "assets/legacy/interactive/6b119225a0118aa0fe8b839546605914.png",
+      "width": 1080,
+      "height": 1207,
+      "bytes": 1106116,
+      "status": "ready"
+    },
+    {
+      "id": "0a219f39637d",
+      "kind": "image",
+      "src": "assets/legacy/interactive/cdcc0610ac290f6e694637a8e325140c.png",
+      "width": 1080,
+      "height": 1641,
+      "bytes": 2337602,
+      "status": "ready"
+    },
+    {
+      "id": "28ec1f157b17",
+      "kind": "image",
+      "src": "assets/legacy/interactive/358615820e422379978ae4f9a5c7417e.png",
+      "width": 1080,
+      "height": 1208,
+      "bytes": 930180,
+      "status": "ready"
+    },
+    {
+      "id": "4721959fdb26",
+      "kind": "image",
+      "src": "assets/legacy/interactive/370f3c7278fcdf59d62caf57d0c6112b.png",
+      "width": 1080,
+      "height": 1615,
+      "bytes": 1235756,
+      "status": "ready"
+    },
+    {
+      "id": "e75dfbc0e265",
+      "kind": "image",
+      "src": "assets/legacy/interactive/66c4750c1dc7ff3cddcdb197abd8d581.png",
+      "width": 1080,
+      "height": 2100,
+      "bytes": 2613858,
+      "status": "ready"
+    },
+    {
+      "id": "12c0599e8346",
+      "kind": "image",
+      "src": "assets/legacy/interactive/77ab1c1782a476206d31c9425ca52830.png",
+      "width": 1080,
+      "height": 1316,
+      "bytes": 344,
+      "status": "ready"
+    },
+    {
+      "id": "1397121f68e0",
+      "kind": "image",
+      "src": "assets/legacy/interactive/1ae1bf00221d828cc9b06c8fb53aa9b5.png",
+      "width": 1080,
+      "height": 1316,
+      "bytes": 466329,
+      "status": "ready"
+    },
+    {
+      "id": "99e0fdbfced9",
+      "kind": "image",
+      "src": "assets/legacy/interactive/93ad090402a4587f2d680fefc174c538.png",
+      "width": 1080,
+      "height": 1316,
+      "bytes": 73170,
+      "status": "ready"
+    },
+    {
+      "id": "b73cf05aad0d",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a978c5cab44623539985555dcc49f663.png",
+      "width": 1080,
+      "height": 569,
+      "bytes": 20764,
+      "status": "ready"
+    },
+    {
+      "id": "446a5ab3f325",
+      "kind": "image",
+      "src": "assets/legacy/interactive/df736c55a429074c3582d344e9532571.png",
+      "width": 1080,
+      "height": 790,
+      "bytes": 28222,
+      "status": "ready"
+    },
+    {
+      "id": "e3a6d9aa2e2b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/0dda99e6b8f83fa2504817913a627cd2.png",
+      "width": 400,
+      "height": 400,
+      "bytes": 29858,
+      "status": "ready"
+    },
+    {
+      "id": "52be7abae0c0",
+      "kind": "image",
+      "src": "assets/legacy/interactive/eec98cd316f285060f5d83cd6861aa57.png",
+      "width": 1080,
+      "height": 1109,
+      "bytes": 165073,
+      "status": "ready"
+    },
+    {
+      "id": "b3efab9a527f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/28ae498fa4dfcd899e8781de88d285a5.png",
+      "width": 1080,
+      "height": 825,
+      "bytes": 49036,
+      "status": "ready"
+    },
+    {
+      "id": "6bb19fa19953",
+      "kind": "image",
+      "src": "assets/legacy/interactive/0abdb33705533be3a0453bd316e68f49.png",
+      "width": 1080,
+      "height": 1704,
+      "bytes": 79916,
+      "status": "ready"
+    },
+    {
+      "id": "da1e570c5ac4",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8b4184e8d29248e9703d403fb35a0e88.png",
+      "width": 1080,
+      "height": 1586,
+      "bytes": 97400,
+      "status": "ready"
+    },
+    {
+      "id": "9114ced1e812",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b1d83688416ebdab3687fd6ba48fd4b9.png",
+      "width": 1080,
+      "height": 1262,
+      "bytes": 117628,
+      "status": "ready"
+    },
+    {
+      "id": "dac10231aebd",
+      "kind": "image",
+      "src": "assets/legacy/interactive/343c7e3add5f7feb12431429af09c727.png",
+      "width": 1080,
+      "height": 1411,
+      "bytes": 66904,
+      "status": "ready"
+    },
+    {
+      "id": "3d242fc70429",
+      "kind": "image",
+      "src": "assets/legacy/interactive/db6c53f3c8578da196ed8d1c523bd3d6.png",
+      "width": 1080,
+      "height": 1205,
+      "bytes": 51640,
+      "status": "ready"
+    },
+    {
+      "id": "0a1b1f51f25e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3c73a0acb45c0478fb6f965dc41fe54c.png",
+      "width": 1080,
+      "height": 1316,
+      "bytes": 114776,
+      "status": "ready"
+    },
+    {
+      "id": "b8f5d7b265d3",
+      "kind": "image",
+      "src": "assets/legacy/interactive/318bf00e70d3050ad23c3e9102cedfbf.png",
+      "width": 1080,
+      "height": 1316,
+      "bytes": 15768,
+      "status": "ready"
+    },
+    {
+      "id": "4ea3bfe7ebe5",
+      "kind": "image",
+      "src": "assets/legacy/interactive/36093f3a2a086fc2bf67fafa2e9e00cc.png",
+      "width": 1080,
+      "height": 569,
+      "bytes": 30992,
+      "status": "ready"
+    },
+    {
+      "id": "145aaaba5df9",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e3bddc049517d2df02af27cf4f658433.png",
+      "width": 1080,
+      "height": 1109,
+      "bytes": 40904,
+      "status": "ready"
+    }
+  ]
+}

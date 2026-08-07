@@ -1,0 +1,27 @@
+---
+import { articlePath, getArticles, sitePath, type Brand } from '../../lib/archive';
+
+export function getStaticPaths() {
+  return (['coloros', 'originos'] as Brand[]).map((brand) => ({ params: { brand } }));
+}
+const brand = Astro.params.brand as Brand;
+const entries = await getArticles(brand);
+const latest = entries[0];
+const latestUrl = latest ? articlePath(latest) : sitePath();
+const routeMap = Object.fromEntries(entries.map((article) => [article.data.articleId, articlePath(article)]));
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <meta http-equiv="refresh" content={`0;url=${latestUrl}`} />
+    <link rel="canonical" href={latestUrl} />
+    <title>{brand === 'coloros' ? 'ColorOS' : 'OriginOS'}</title>
+    <script is:inline define:vars={{ latestUrl, routeMap }}>
+      const key = location.hash.length > 1 ? decodeURIComponent(location.hash.slice(1)) : '';
+      location.replace(routeMap[key] || latestUrl);
+    </script>
+  </head>
+  <body></body>
+</html>

@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { sitePath } from '../lib/archive';
+---
+<BaseLayout title="页面不存在">
+  <main class="redirect-page">
+    <p class="eyebrow">404 / Not found</p>
+    <h1>这页档案暂时找不到。</h1>
+    <p>返回档案馆首页，继续浏览 ColorOS 与 OriginOS 的系统更新。</p>
+    <a class="button button-primary" href={sitePath()}>回到首页 ↗</a>
+  </main>
+</BaseLayout>

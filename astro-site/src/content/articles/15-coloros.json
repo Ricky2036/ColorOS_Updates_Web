@@ -1,0 +1,61 @@
+{
+  "articleId": "月月有更新！ColorOS_二月体验升级来了",
+  "order": 15,
+  "title": "月月有更新！ColorOS 二月体验升级来了",
+  "brand": "coloros",
+  "year": 2025,
+  "publishedAt": "2025-02-01",
+  "slug": "15-coloros",
+  "kind": "interactive",
+  "legacyPath": "月月有更新！ColorOS_二月体验升级来了.html",
+  "html": "",
+  "compatPath": "compat/coloros/15-coloros/index.html",
+  "cover": {
+    "src": "assets/covers/64fba8a6828927b0-1200.webp",
+    "srcset": "assets/covers/64fba8a6828927b0-480.webp 480w, assets/covers/64fba8a6828927b0-800.webp 800w, assets/covers/64fba8a6828927b0-1200.webp 1200w",
+    "avifSrcset": "assets/covers/64fba8a6828927b0-480.avif 480w, assets/covers/64fba8a6828927b0-800.avif 800w, assets/covers/64fba8a6828927b0-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "月月有更新！ColorOS 二月体验升级来了 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "61e7c609756c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/00bbd6ba6a2e10b05ee39e0358d34f19.webp",
+      "width": 1080,
+      "height": 5977,
+      "bytes": 291562,
+      "status": "ready"
+    },
+    {
+      "id": "307033d64238",
+      "kind": "image",
+      "src": "assets/legacy/interactive/1d35c39b595a2b6d562e8468deb8dab8.webp",
+      "width": 1080,
+      "height": 4060,
+      "bytes": 142058,
+      "status": "ready"
+    },
+    {
+      "id": "99ba543fab8f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5906ba4540dff87d8c94e24ba677e19b.webp",
+      "width": 1080,
+      "height": 5021,
+      "bytes": 291084,
+      "status": "ready"
+    },
+    {
+      "id": "7d8a24aec058",
+      "kind": "image",
+      "src": "assets/legacy/interactive/48dd05c21a4257b8fbd2b5ad39490c2d.webp",
+      "width": 1080,
+      "height": 5021,
+      "bytes": 291084,
+      "status": "ready"
+    }
+  ]
+}

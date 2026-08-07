@@ -1,0 +1,65 @@
+{
+  "articleId": "ColorOS_十一月体验升级来了！",
+  "order": 18,
+  "title": "ColorOS 十一月体验升级来了！",
+  "brand": "coloros",
+  "year": 2024,
+  "publishedAt": "2024-11-01",
+  "slug": "18-coloros",
+  "kind": "interactive",
+  "legacyPath": "ColorOS_十一月体验升级来了！.html",
+  "html": "",
+  "compatPath": "compat/coloros/18-coloros/index.html",
+  "cover": {
+    "src": "assets/covers/615f81b215a99192-1200.webp",
+    "srcset": "assets/covers/615f81b215a99192-480.webp 480w, assets/covers/615f81b215a99192-800.webp 800w, assets/covers/615f81b215a99192-1200.webp 1200w",
+    "avifSrcset": "assets/covers/615f81b215a99192-480.avif 480w, assets/covers/615f81b215a99192-800.avif 800w, assets/covers/615f81b215a99192-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "ColorOS 十一月体验升级来了！ 封面",
+    "dominantColor": "#080808",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "053635f7a33b",
+      "kind": "image",
+      "width": 0,
+      "height": 0,
+      "bytes": 0,
+      "status": "missing"
+    },
+    {
+      "id": "504bce1949e0",
+      "kind": "image",
+      "width": 0,
+      "height": 0,
+      "bytes": 0,
+      "status": "missing"
+    },
+    {
+      "id": "edc4007d0950",
+      "kind": "image",
+      "width": 0,
+      "height": 0,
+      "bytes": 0,
+      "status": "missing"
+    },
+    {
+      "id": "cc0f885f0017",
+      "kind": "image",
+      "width": 0,
+      "height": 0,
+      "bytes": 0,
+      "status": "missing"
+    },
+    {
+      "id": "8b21422b97f1",
+      "kind": "image",
+      "width": 0,
+      "height": 0,
+      "bytes": 0,
+      "status": "missing"
+    }
+  ]
+}

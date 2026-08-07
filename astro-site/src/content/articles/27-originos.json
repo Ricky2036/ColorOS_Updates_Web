@@ -1,0 +1,106 @@
+{
+  "articleId": "OriginOS_3月体验更新一览",
+  "order": 27,
+  "title": "OriginOS 3月体验更新一览",
+  "brand": "originos",
+  "year": 2025,
+  "publishedAt": "2025-01-01",
+  "slug": "27-originos-3",
+  "kind": "interactive",
+  "legacyPath": "OriginOS_3月体验更新一览.html",
+  "html": "",
+  "compatPath": "compat/originos/27-originos-3/index.html",
+  "cover": {
+    "src": "assets/covers/8e7eadc34f5c8a5c-1200.webp",
+    "srcset": "assets/covers/8e7eadc34f5c8a5c-480.webp 480w, assets/covers/8e7eadc34f5c8a5c-800.webp 800w, assets/covers/8e7eadc34f5c8a5c-1200.webp 1200w",
+    "avifSrcset": "assets/covers/8e7eadc34f5c8a5c-480.avif 480w, assets/covers/8e7eadc34f5c8a5c-800.avif 800w, assets/covers/8e7eadc34f5c8a5c-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OriginOS 3月体验更新一览 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "b8dc99601d67",
+      "kind": "image",
+      "src": "assets/legacy/interactive/bfa0bc77b7b88ea549bfd5d0ebd1923a.png",
+      "width": 1080,
+      "height": 2791,
+      "bytes": 509854,
+      "status": "ready"
+    },
+    {
+      "id": "8d84945754cd",
+      "kind": "image",
+      "src": "assets/legacy/interactive/bfbe91b66f2c93371c02eb7a7fdcb8e5.png",
+      "width": 1080,
+      "height": 2791,
+      "bytes": 509854,
+      "status": "ready"
+    },
+    {
+      "id": "eb2d078d1432",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a0b199d2be57ae2e23a1b55b8d0116d2.png",
+      "width": 1080,
+      "height": 2857,
+      "bytes": 933774,
+      "status": "ready"
+    },
+    {
+      "id": "1a1d34b80001",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f85947d2db7cc86039e33667c7e6c8f2.png",
+      "width": 1080,
+      "height": 2784,
+      "bytes": 184305,
+      "status": "ready"
+    },
+    {
+      "id": "9275a4e8a3ce",
+      "kind": "image",
+      "src": "assets/legacy/interactive/47735fd55de4f677a7441fac88e4a532.png",
+      "width": 1080,
+      "height": 2916,
+      "bytes": 73941,
+      "status": "ready"
+    },
+    {
+      "id": "c6051229c544",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8202d795e56c0a37cf5058f6665a1b89.png",
+      "width": 1080,
+      "height": 3168,
+      "bytes": 967961,
+      "status": "ready"
+    },
+    {
+      "id": "7eb476e6e27e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/ae4b3044d28709672b8a1b648eef1afc.png",
+      "width": 1080,
+      "height": 2892,
+      "bytes": 752752,
+      "status": "ready"
+    },
+    {
+      "id": "3fcb25f12c3d",
+      "kind": "image",
+      "src": "assets/legacy/interactive/4282d95e010e85ec211d11c6ff49de42.png",
+      "width": 1080,
+      "height": 3210,
+      "bytes": 850285,
+      "status": "ready"
+    },
+    {
+      "id": "dcbc3a4ec256",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d4bf46b0959269696c91203874b81340.png",
+      "width": 1080,
+      "height": 3210,
+      "bytes": 850285,
+      "status": "ready"
+    }
+  ]
+}

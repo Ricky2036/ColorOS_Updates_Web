@@ -1,0 +1,88 @@
+{
+  "articleId": "OPPO_手机系统_ColorOS_五月升级一览",
+  "order": 12,
+  "title": "OPPO 手机系统 ColorOS 五月升级一览",
+  "brand": "coloros",
+  "year": 2025,
+  "publishedAt": "2025-05-01",
+  "slug": "12-oppo-coloros",
+  "kind": "interactive",
+  "legacyPath": "OPPO_手机系统_ColorOS_五月升级一览.html",
+  "html": "",
+  "compatPath": "compat/coloros/12-oppo-coloros/index.html",
+  "cover": {
+    "src": "assets/covers/bbfa2889ba7f7a93-1200.webp",
+    "srcset": "assets/covers/bbfa2889ba7f7a93-480.webp 480w, assets/covers/bbfa2889ba7f7a93-800.webp 800w, assets/covers/bbfa2889ba7f7a93-1200.webp 1200w",
+    "avifSrcset": "assets/covers/bbfa2889ba7f7a93-480.avif 480w, assets/covers/bbfa2889ba7f7a93-800.avif 800w, assets/covers/bbfa2889ba7f7a93-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OPPO 手机系统 ColorOS 五月升级一览 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "710969690dbe",
+      "kind": "image",
+      "src": "assets/legacy/interactive/4f0d15655f2a7fd20ffbe88369f271da.webp",
+      "width": 1080,
+      "height": 7196,
+      "bytes": 402202,
+      "status": "ready"
+    },
+    {
+      "id": "6b52f21ab948",
+      "kind": "image",
+      "src": "assets/legacy/interactive/762475fe56b66b3dc0ec38cdcf3acb72.webp",
+      "width": 1080,
+      "height": 7271,
+      "bytes": 379908,
+      "status": "ready"
+    },
+    {
+      "id": "782101105d9c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a855bbaf60923b3e1156a2762d9ba1e2.webp",
+      "width": 1080,
+      "height": 6181,
+      "bytes": 528360,
+      "status": "ready"
+    },
+    {
+      "id": "17af2b1eae85",
+      "kind": "image",
+      "src": "assets/legacy/interactive/dae1a30e60be3b80de149a81ad062f07.webp",
+      "width": 1080,
+      "height": 7101,
+      "bytes": 370960,
+      "status": "ready"
+    },
+    {
+      "id": "017ba8155697",
+      "kind": "image",
+      "src": "assets/legacy/interactive/185b63c19865daa96f3ce61cfaa60ce2.webp",
+      "width": 1080,
+      "height": 6823,
+      "bytes": 308960,
+      "status": "ready"
+    },
+    {
+      "id": "499e6a6c1aa3",
+      "kind": "image",
+      "src": "assets/legacy/interactive/81d516f6d7515066263f9cdbb029efcd.webp",
+      "width": 1080,
+      "height": 8275,
+      "bytes": 504788,
+      "status": "ready"
+    },
+    {
+      "id": "ef9a40ccc821",
+      "kind": "image",
+      "src": "assets/legacy/interactive/23a6643728997404272afac8f9c79fc3.webp",
+      "width": 1080,
+      "height": 8275,
+      "bytes": 487264,
+      "status": "ready"
+    }
+  ]
+}

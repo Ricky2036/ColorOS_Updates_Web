@@ -1,0 +1,33 @@
+{
+  "articleId": "ColorOS_十二月体验升级一览",
+  "order": 17,
+  "title": "ColorOS 十二月体验升级一览",
+  "brand": "coloros",
+  "year": 2024,
+  "publishedAt": "2024-12-01",
+  "slug": "17-coloros",
+  "kind": "gallery",
+  "legacyPath": "ColorOS_十二月体验升级一览.html",
+  "html": "<section class=\"card\">\n                <div class=\"card-body\">\n          <div class=\"image-gallery\">\n            <img loading=\"eager\" decoding=\"async\" fetchpriority=\"high\" width=\"1080\" height=\"13878\" src=\"../../../assets/responsive/c2fc3ebc0a203cd3-960.webp\" alt=\"ColorOS 十二月体验升级一览 更新配图\" srcset=\"../../../assets/responsive/c2fc3ebc0a203cd3-480.webp 480w, ../../../assets/responsive/c2fc3ebc0a203cd3-960.webp 960w, ../../../assets/responsive/c2fc3ebc0a203cd3-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n          </div>\n\n        </div>\n    </section>",
+  "cover": {
+    "src": "assets/covers/89cef88f734ce36f-1200.webp",
+    "srcset": "assets/covers/89cef88f734ce36f-480.webp 480w, assets/covers/89cef88f734ce36f-800.webp 800w, assets/covers/89cef88f734ce36f-1200.webp 1200w",
+    "avifSrcset": "assets/covers/89cef88f734ce36f-480.avif 480w, assets/covers/89cef88f734ce36f-800.avif 800w, assets/covers/89cef88f734ce36f-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "ColorOS 十二月体验升级一览 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "c2fc3ebc0a20",
+      "kind": "image",
+      "src": "assets/responsive/c2fc3ebc0a203cd3-960.webp",
+      "width": 1080,
+      "height": 13878,
+      "bytes": 597158,
+      "status": "ready"
+    }
+  ]
+}

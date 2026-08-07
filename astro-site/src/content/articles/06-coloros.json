@@ -1,0 +1,42 @@
+{
+  "articleId": "OPPO_ColorOS_十一月系统升级一览",
+  "order": 6,
+  "title": "OPPO ColorOS 十一月系统升级一览",
+  "brand": "coloros",
+  "year": 2025,
+  "publishedAt": "2025-11-01",
+  "slug": "06-oppo-coloros",
+  "kind": "gallery",
+  "legacyPath": "OPPO_ColorOS_十一月系统升级一览.html",
+  "html": "<section class=\"card\">\n                <div class=\"card-body\">\n          <div class=\"image-gallery\">\n            <img loading=\"eager\" decoding=\"async\" fetchpriority=\"high\" width=\"1080\" height=\"13133\" src=\"../../../assets/responsive/1d82d5aa7eff24bf-960.webp\" alt=\"OPPO ColorOS 十一月系统升级一览 更新配图\" srcset=\"../../../assets/responsive/1d82d5aa7eff24bf-480.webp 480w, ../../../assets/responsive/1d82d5aa7eff24bf-960.webp 960w, ../../../assets/responsive/1d82d5aa7eff24bf-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n            <img loading=\"lazy\" decoding=\"async\" width=\"1080\" height=\"9286\" src=\"../../../assets/responsive/175c1a60c5d35fb9-960.webp\" alt=\"OPPO ColorOS 十一月系统升级一览 更新配图\" srcset=\"../../../assets/responsive/175c1a60c5d35fb9-480.webp 480w, ../../../assets/responsive/175c1a60c5d35fb9-960.webp 960w, ../../../assets/responsive/175c1a60c5d35fb9-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n          </div>\n\n        </div>\n    </section>",
+  "cover": {
+    "src": "assets/covers/436b1c1760659f2f-1200.webp",
+    "srcset": "assets/covers/436b1c1760659f2f-480.webp 480w, assets/covers/436b1c1760659f2f-800.webp 800w, assets/covers/436b1c1760659f2f-1200.webp 1200w",
+    "avifSrcset": "assets/covers/436b1c1760659f2f-480.avif 480w, assets/covers/436b1c1760659f2f-800.avif 800w, assets/covers/436b1c1760659f2f-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OPPO ColorOS 十一月系统升级一览 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "1d82d5aa7eff",
+      "kind": "image",
+      "src": "assets/responsive/1d82d5aa7eff24bf-960.webp",
+      "width": 1080,
+      "height": 13133,
+      "bytes": 577294,
+      "status": "ready"
+    },
+    {
+      "id": "175c1a60c5d3",
+      "kind": "image",
+      "src": "assets/responsive/175c1a60c5d35fb9-960.webp",
+      "width": 1080,
+      "height": 9286,
+      "bytes": 560816,
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+name: Deploy Astro archive to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'astro-site/**'
+      - '.github/workflows/deploy-astro.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: astro-site/package-lock.json
+
+      - name: Install dependencies
+        working-directory: astro-site
+        run: npm install --no-audit --no-fund
+
+      - name: Build site
+        working-directory: astro-site
+        env:
+          PUBLIC_SITE_URL: https://ricky2036.github.io/ColorOS_Updates_Web
+          PUBLIC_BASE_PATH: /ColorOS_Updates_Web/
+        run: npm run build
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: astro-site/dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

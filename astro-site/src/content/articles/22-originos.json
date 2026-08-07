@@ -1,0 +1,151 @@
+{
+  "articleId": "OriginOS_6_一月体验升级亮点",
+  "order": 22,
+  "title": "OriginOS 6 一月体验升级亮点",
+  "brand": "originos",
+  "year": 2026,
+  "publishedAt": "2026-01-01",
+  "slug": "22-originos-6",
+  "kind": "interactive",
+  "legacyPath": "OriginOS_6_一月体验升级亮点.html",
+  "html": "",
+  "compatPath": "compat/originos/22-originos-6/index.html",
+  "cover": {
+    "src": "assets/covers/9b90b8e6343d7796-1200.webp",
+    "srcset": "assets/covers/9b90b8e6343d7796-480.webp 480w, assets/covers/9b90b8e6343d7796-800.webp 800w, assets/covers/9b90b8e6343d7796-1200.webp 1200w",
+    "avifSrcset": "assets/covers/9b90b8e6343d7796-480.avif 480w, assets/covers/9b90b8e6343d7796-800.avif 800w, assets/covers/9b90b8e6343d7796-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OriginOS 6 一月体验升级亮点 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "4e6f2d906f8e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8bbb8938bb9b042ab0a726363cb867c3.png",
+      "width": 1080,
+      "height": 920,
+      "bytes": 181260,
+      "status": "ready"
+    },
+    {
+      "id": "d4ba52946e1c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/fce792ba948a65645840e66717753388.png",
+      "width": 1080,
+      "height": 920,
+      "bytes": 27414,
+      "status": "ready"
+    },
+    {
+      "id": "4e81ab428acc",
+      "kind": "animated-image",
+      "src": "assets/legacy/interactive/f855f362476e44fa00f6a2d330001ca4.gif",
+      "width": 799,
+      "height": 1080,
+      "bytes": 721908,
+      "status": "ready"
+    },
+    {
+      "id": "ef9df3a85d82",
+      "kind": "animated-image",
+      "src": "assets/legacy/interactive/d73a1a39003cab6d08a91e16136b5fe3.gif",
+      "width": 799,
+      "height": 1080,
+      "bytes": 721908,
+      "status": "ready"
+    },
+    {
+      "id": "4b6885018c6d",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b238bc3de79b29543399e0bae2dfbd70.png",
+      "width": 1080,
+      "height": 3686,
+      "bytes": 1924906,
+      "status": "ready"
+    },
+    {
+      "id": "18f95266ca3f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8739d001b909bfd64c1835146fe737e5.png",
+      "width": 1080,
+      "height": 4004,
+      "bytes": 1307663,
+      "status": "ready"
+    },
+    {
+      "id": "45c16ae958ca",
+      "kind": "image",
+      "src": "assets/legacy/interactive/9c0cd1313061bcc2f88340d7cd8d90e8.png",
+      "width": 1620,
+      "height": 6006,
+      "bytes": 2353330,
+      "status": "ready"
+    },
+    {
+      "id": "0577e8e2ca76",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5f1c76ea095e3ade547d2a9e68c26c84.png",
+      "width": 1080,
+      "height": 5840,
+      "bytes": 342202,
+      "status": "ready"
+    },
+    {
+      "id": "da7725a839b9",
+      "kind": "image",
+      "src": "assets/legacy/interactive/03cc8f209150b64e19d63ec2506324d3.png",
+      "width": 1080,
+      "height": 790,
+      "bytes": 115909,
+      "status": "ready"
+    },
+    {
+      "id": "f1d154cc09e3",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e5ef64b6d1460e3b41fee62d71201b3c.png",
+      "width": 1080,
+      "height": 790,
+      "bytes": 28222,
+      "status": "ready"
+    },
+    {
+      "id": "aa60f7332575",
+      "kind": "image",
+      "src": "assets/legacy/interactive/71e19ee5eb1f9656e4159178dad3c5d5.png",
+      "width": 400,
+      "height": 400,
+      "bytes": 21882,
+      "status": "ready"
+    },
+    {
+      "id": "313748ab7c79",
+      "kind": "image",
+      "src": "assets/legacy/interactive/385f68c48c90f22919e3b8fb32dce6f4.png",
+      "width": 400,
+      "height": 400,
+      "bytes": 29858,
+      "status": "ready"
+    },
+    {
+      "id": "64104840a854",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a10eca709da0cad4c21818a387fb54f0.jpg",
+      "width": 1080,
+      "height": 1109,
+      "bytes": 79099,
+      "status": "ready"
+    },
+    {
+      "id": "95b2b92e6e9a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/65a379d11bedaafe7c7dbbd9c35a39fd.jpg",
+      "width": 1080,
+      "height": 1109,
+      "bytes": 44484,
+      "status": "ready"
+    }
+  ]
+}

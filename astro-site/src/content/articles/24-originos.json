@@ -1,0 +1,2185 @@
+{
+  "articleId": "OriginOS_6_十二月体验升级亮点",
+  "order": 24,
+  "title": "OriginOS 6 十二月体验升级亮点",
+  "brand": "originos",
+  "year": 2025,
+  "publishedAt": "2025-12-01",
+  "slug": "24-originos-6",
+  "kind": "interactive",
+  "legacyPath": "OriginOS_6_十二月体验升级亮点.html",
+  "html": "",
+  "compatPath": "compat/originos/24-originos-6/index.html",
+  "cover": {
+    "src": "assets/covers/b34957b36f44ba76-1200.webp",
+    "srcset": "assets/covers/b34957b36f44ba76-480.webp 480w, assets/covers/b34957b36f44ba76-800.webp 800w, assets/covers/b34957b36f44ba76-1200.webp 1200w",
+    "avifSrcset": "assets/covers/b34957b36f44ba76-480.avif 480w, assets/covers/b34957b36f44ba76-800.avif 800w, assets/covers/b34957b36f44ba76-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OriginOS 6 十二月体验升级亮点 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "aa0ec78c6a7e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/73b31c7aa59e3c1dd14a4bf68f2081a6.png",
+      "width": 1080,
+      "height": 3311,
+      "bytes": 1087143,
+      "status": "ready"
+    },
+    {
+      "id": "4228f46844c4",
+      "kind": "image",
+      "src": "assets/legacy/interactive/75f4a8cc2c9243e2917aa6477eae75a6.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 331498,
+      "status": "ready"
+    },
+    {
+      "id": "eda0ac59615d",
+      "kind": "image",
+      "src": "assets/legacy/interactive/51388496960ba3bfa194afc3aa9735dd.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 335189,
+      "status": "ready"
+    },
+    {
+      "id": "042eaa3f1626",
+      "kind": "image",
+      "src": "assets/legacy/interactive/cd8616611d5774d512df0569f6ebc148.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 335097,
+      "status": "ready"
+    },
+    {
+      "id": "159ce7fdcaba",
+      "kind": "image",
+      "src": "assets/legacy/interactive/71ca52913dd67caf3ebaf94f81f0ecb7.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 337229,
+      "status": "ready"
+    },
+    {
+      "id": "e8576519be2a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3793b86bf6cb7955597104bc857d76d0.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 335107,
+      "status": "ready"
+    },
+    {
+      "id": "7b6e86a6883c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f1b394324c74ba12b4465fe44161018d.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 335005,
+      "status": "ready"
+    },
+    {
+      "id": "51c6cc74996e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/ae59b843e534bd2168bda9d564388469.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 334509,
+      "status": "ready"
+    },
+    {
+      "id": "92bf5d345d0f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/40ad12ec19f27692aafa2258d197b101.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 334908,
+      "status": "ready"
+    },
+    {
+      "id": "ccc82c64616a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/75d35c9e1341e94544638687b4b69995.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 334835,
+      "status": "ready"
+    },
+    {
+      "id": "ec22368070af",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f579426f0c23a7b2343d43204459d9be.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 335519,
+      "status": "ready"
+    },
+    {
+      "id": "c84ee777bd74",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a8af8113fcccb4afa924133597114ea0.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 335843,
+      "status": "ready"
+    },
+    {
+      "id": "eeb8365c4e9f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5813888d939c1cfb04fa69d13e8c2ac3.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 337971,
+      "status": "ready"
+    },
+    {
+      "id": "ee30881535c5",
+      "kind": "image",
+      "src": "assets/legacy/interactive/09975c29291453aaebe7f9640210998f.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 338414,
+      "status": "ready"
+    },
+    {
+      "id": "df3614eb83ba",
+      "kind": "image",
+      "src": "assets/legacy/interactive/597bb8f1e3b6543b6e80aec31a4f12d2.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 337799,
+      "status": "ready"
+    },
+    {
+      "id": "d457b920915c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/2dc2832570eaaae8dfb519d91992beb4.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 335911,
+      "status": "ready"
+    },
+    {
+      "id": "45facf7d611f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/1970d4d3f74ee9495ead09db3a055b14.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 334815,
+      "status": "ready"
+    },
+    {
+      "id": "18347121c3df",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5926a1f620dbceb13ab2df3de70131f8.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 334795,
+      "status": "ready"
+    },
+    {
+      "id": "28f9a87b7d81",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5fc4d86b7487865b700f38ce048c48de.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 332223,
+      "status": "ready"
+    },
+    {
+      "id": "3f84dd4ee4cb",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b437eaf449988c04d32f5fe4354abdd2.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 333152,
+      "status": "ready"
+    },
+    {
+      "id": "c519e6ea0213",
+      "kind": "image",
+      "src": "assets/legacy/interactive/7cfa294586104058ebd706b55f883a77.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 333570,
+      "status": "ready"
+    },
+    {
+      "id": "795a58d13631",
+      "kind": "image",
+      "src": "assets/legacy/interactive/802e958be81affac5b9c8243cb445d75.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 332103,
+      "status": "ready"
+    },
+    {
+      "id": "9eb7758c54db",
+      "kind": "image",
+      "src": "assets/legacy/interactive/9dc782a433baec50483ac16c6637b9a4.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 334082,
+      "status": "ready"
+    },
+    {
+      "id": "b794a866c53b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/738d83899a343d1f9072312734c3b036.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 335764,
+      "status": "ready"
+    },
+    {
+      "id": "5dba6cfb2109",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3ff158c2197889b9133ec14a4ab1aa00.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 336072,
+      "status": "ready"
+    },
+    {
+      "id": "02e32424c2c8",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a64c538683e72e66cdebcb05b0f0d568.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 337336,
+      "status": "ready"
+    },
+    {
+      "id": "9b7f80155d52",
+      "kind": "image",
+      "src": "assets/legacy/interactive/43b8e569b2e50c1ec0371fb51739c7f5.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 336151,
+      "status": "ready"
+    },
+    {
+      "id": "9851034ba08e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/58754e685ddc369d99d07f2fc376f9b3.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 335177,
+      "status": "ready"
+    },
+    {
+      "id": "376435f80142",
+      "kind": "image",
+      "src": "assets/legacy/interactive/52d9fe247ea39133c73b5e4ce520c338.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 334045,
+      "status": "ready"
+    },
+    {
+      "id": "bd31d8a42627",
+      "kind": "image",
+      "src": "assets/legacy/interactive/7f9756c6cc917fdb525c5d08634e9419.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 334776,
+      "status": "ready"
+    },
+    {
+      "id": "65316fcfff42",
+      "kind": "image",
+      "src": "assets/legacy/interactive/ef384aa87026f95d5776b9f451df34ef.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 334873,
+      "status": "ready"
+    },
+    {
+      "id": "a6374194f09c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/4a3e1bd8e82625b4c0103548d36311f5.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 336349,
+      "status": "ready"
+    },
+    {
+      "id": "b79669e3d270",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e90e00fc148f0790499d31d88942b577.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 336857,
+      "status": "ready"
+    },
+    {
+      "id": "d1f6d061a6ba",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f2f4fbdfef10face30e8dfae07da0cbb.png",
+      "width": 1080,
+      "height": 273,
+      "bytes": 7406,
+      "status": "ready"
+    },
+    {
+      "id": "211a863274b5",
+      "kind": "image",
+      "src": "assets/legacy/interactive/72cda1c12aa0ab5d0be1302015be9ec2.png",
+      "width": 1080,
+      "height": 827,
+      "bytes": 2309,
+      "status": "ready"
+    },
+    {
+      "id": "bdffd014dfc4",
+      "kind": "image",
+      "src": "assets/legacy/interactive/79e38f99c161666514e1ce96f932f652.png",
+      "width": 1080,
+      "height": 715,
+      "bytes": 941968,
+      "status": "ready"
+    },
+    {
+      "id": "55b1b2c4bed3",
+      "kind": "image",
+      "src": "assets/legacy/interactive/6dda411513d0e61e234a5b368f33325e.png",
+      "width": 1080,
+      "height": 827,
+      "bytes": 7814,
+      "status": "ready"
+    },
+    {
+      "id": "2c0aa6fed208",
+      "kind": "image",
+      "src": "assets/legacy/interactive/447f4a8c309ca658a7efad322529639d.png",
+      "width": 1080,
+      "height": 827,
+      "bytes": 4154,
+      "status": "ready"
+    },
+    {
+      "id": "5b7ef1ee8c9e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/afcb95ff603283902e8fbacb7c039d28.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 211254,
+      "status": "ready"
+    },
+    {
+      "id": "acfc7754b782",
+      "kind": "image",
+      "src": "assets/legacy/interactive/67166b425a95523f24c6370279be7411.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 211250,
+      "status": "ready"
+    },
+    {
+      "id": "6f282729ed56",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f31f2ee8b42fe492c0809de48d564d6f.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 206333,
+      "status": "ready"
+    },
+    {
+      "id": "8459a813950a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/0bc6f92c161593fc66cd0c85de2af839.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 397321,
+      "status": "ready"
+    },
+    {
+      "id": "3abac14fa470",
+      "kind": "image",
+      "src": "assets/legacy/interactive/9a49fffbf7619c058d121ec7a6f83c05.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 456698,
+      "status": "ready"
+    },
+    {
+      "id": "e24460142497",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f3173108108bc97bf45792dfb7f48295.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 471555,
+      "status": "ready"
+    },
+    {
+      "id": "704b95e7ac64",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e14990dcf34dde68aa7e278a38633ea4.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 475656,
+      "status": "ready"
+    },
+    {
+      "id": "208936567a87",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b86825960692dedcf8d262124e843472.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 476578,
+      "status": "ready"
+    },
+    {
+      "id": "a3b655133692",
+      "kind": "image",
+      "src": "assets/legacy/interactive/32451683827fe85225900b290b37f00a.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 484995,
+      "status": "ready"
+    },
+    {
+      "id": "714f05f6ff39",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f2284180956aa91c0ae9bab49df9925a.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 484848,
+      "status": "ready"
+    },
+    {
+      "id": "7621c507c8d9",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8f33c2666a0d8da2267cd5f0e54574da.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 496587,
+      "status": "ready"
+    },
+    {
+      "id": "3d4873d0658b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/29885236958499ce1f010268b1eedab0.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 496537,
+      "status": "ready"
+    },
+    {
+      "id": "b5f8ad09d901",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d32ebab21da64d61998d9ae49092b877.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 498485,
+      "status": "ready"
+    },
+    {
+      "id": "77224b390cbb",
+      "kind": "image",
+      "src": "assets/legacy/interactive/abc3c9a0c028a91a54561ccf7f499343.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 503239,
+      "status": "ready"
+    },
+    {
+      "id": "e0150468019b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/ab2fc21220b89c7de847466a9613435c.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 497394,
+      "status": "ready"
+    },
+    {
+      "id": "f18dedf7370a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e18e4319f8f05d301592e8ed00796459.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 497256,
+      "status": "ready"
+    },
+    {
+      "id": "9a9cd55c0ff5",
+      "kind": "image",
+      "src": "assets/legacy/interactive/4de9812f4d9732fe76015e6c09dca361.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 502777,
+      "status": "ready"
+    },
+    {
+      "id": "32095e2d04b9",
+      "kind": "image",
+      "src": "assets/legacy/interactive/26bdbcba8e2c19edaf10a0c7fc4d603f.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 433739,
+      "status": "ready"
+    },
+    {
+      "id": "500a3566ef21",
+      "kind": "image",
+      "src": "assets/legacy/interactive/197105de66fe34386a6eaaaf1678567c.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 433308,
+      "status": "ready"
+    },
+    {
+      "id": "a66abb807f12",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3c7efb99229a00bc74e30741aea3c5b1.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 434367,
+      "status": "ready"
+    },
+    {
+      "id": "2e06534f7052",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d5c90f78f0c5b95c21ed271db5bbe098.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 438821,
+      "status": "ready"
+    },
+    {
+      "id": "8e00258f96af",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8d055f4d3092fc109f84d04b539d4cfe.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 434333,
+      "status": "ready"
+    },
+    {
+      "id": "92d708884a74",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8a3946239071d0d3226c1878a46f1a62.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 436683,
+      "status": "ready"
+    },
+    {
+      "id": "73474aeea744",
+      "kind": "image",
+      "src": "assets/legacy/interactive/918a96c639a61c50355ef0d7f334a4d8.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 438061,
+      "status": "ready"
+    },
+    {
+      "id": "b03bd5b86383",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f01d55f5a19df44309f779c59822ddac.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 441800,
+      "status": "ready"
+    },
+    {
+      "id": "d701d760284f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/2e2ace823f7f837ce1d510133f29d988.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 451301,
+      "status": "ready"
+    },
+    {
+      "id": "8b781ffd97f1",
+      "kind": "image",
+      "src": "assets/legacy/interactive/bcaa1b23159beca58138b28b842e6562.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 451813,
+      "status": "ready"
+    },
+    {
+      "id": "a36c4bd66923",
+      "kind": "image",
+      "src": "assets/legacy/interactive/c6b1ecb167b71f16f976d5183d30b934.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 452324,
+      "status": "ready"
+    },
+    {
+      "id": "81bbc0a50974",
+      "kind": "image",
+      "src": "assets/legacy/interactive/c66308dce02fafa5ac9cf011ef8fadd2.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 451037,
+      "status": "ready"
+    },
+    {
+      "id": "7a27c9863a9c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/330fac6daad2acff97d4c1b4934bde15.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 357070,
+      "status": "ready"
+    },
+    {
+      "id": "fb442b5f7869",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f24aeac9c60ae8f1345ac3dc49a02b7b.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 161583,
+      "status": "ready"
+    },
+    {
+      "id": "23adea5748e0",
+      "kind": "image",
+      "src": "assets/legacy/interactive/2554b5a9a978e481726078450f5b927f.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 207666,
+      "status": "ready"
+    },
+    {
+      "id": "deaf50378d03",
+      "kind": "image",
+      "src": "assets/legacy/interactive/67e6ef3eed0876913d122b28e803c202.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 211836,
+      "status": "ready"
+    },
+    {
+      "id": "bb6e676d1510",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a4234fd44403455039221cc192a048be.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 212466,
+      "status": "ready"
+    },
+    {
+      "id": "6a10cad442d5",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3033053becb2904077a290afba6f3f4d.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 212256,
+      "status": "ready"
+    },
+    {
+      "id": "ff45843221ab",
+      "kind": "image",
+      "src": "assets/legacy/interactive/ee12a76e53572a76b8627def600bf5f9.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 212226,
+      "status": "ready"
+    },
+    {
+      "id": "d18353b2af4b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3c5fd1aa53a3b5098ccb7fe38cc82791.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 208000,
+      "status": "ready"
+    },
+    {
+      "id": "808122fc2de4",
+      "kind": "image",
+      "src": "assets/legacy/interactive/ca6ab13ecae1066dac566dc541039837.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 442426,
+      "status": "ready"
+    },
+    {
+      "id": "6c528dae7a9a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/40834217f21d4136543d3ceb1e054458.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 506427,
+      "status": "ready"
+    },
+    {
+      "id": "8e2f086cecd4",
+      "kind": "image",
+      "src": "assets/legacy/interactive/4d3d757032f9c1cb5e6dd7217dd6934c.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 519043,
+      "status": "ready"
+    },
+    {
+      "id": "7be41cffe7ed",
+      "kind": "image",
+      "src": "assets/legacy/interactive/747c0342672f733cd0b2592608225cc4.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 519570,
+      "status": "ready"
+    },
+    {
+      "id": "784e55c4e5dc",
+      "kind": "image",
+      "src": "assets/legacy/interactive/7fc42a948d22863a9859e5e47621e6b8.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 520195,
+      "status": "ready"
+    },
+    {
+      "id": "e8943bd65162",
+      "kind": "image",
+      "src": "assets/legacy/interactive/00bf6206acfd68cce5b14ac41d833201.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 526388,
+      "status": "ready"
+    },
+    {
+      "id": "49b59cf7fb01",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5bc060dda427525622713ccdd26f665f.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 529748,
+      "status": "ready"
+    },
+    {
+      "id": "7efec8895980",
+      "kind": "image",
+      "src": "assets/legacy/interactive/72bfdb5bc16f397da6e3114f87f8ab03.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 530743,
+      "status": "ready"
+    },
+    {
+      "id": "8ebeac06dc4c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e5e10004648cab442f0520c9b7dd3367.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 532592,
+      "status": "ready"
+    },
+    {
+      "id": "9428bf2b14d9",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b1a145b590908e827406c602abdc7467.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 532600,
+      "status": "ready"
+    },
+    {
+      "id": "24c957238221",
+      "kind": "image",
+      "src": "assets/legacy/interactive/db6059bfc7446a3b67b950c6ca67ee7e.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 532584,
+      "status": "ready"
+    },
+    {
+      "id": "f28f9084ee3b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/309114437240a449d700ba466d89761c.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 536210,
+      "status": "ready"
+    },
+    {
+      "id": "1c5f7cd3c865",
+      "kind": "image",
+      "src": "assets/legacy/interactive/25ee0489f061fffd2bcdc20580e2bfb6.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 536271,
+      "status": "ready"
+    },
+    {
+      "id": "deb65c65d139",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8a53d54dd0162ed49473d00dfe1f73fb.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 538425,
+      "status": "ready"
+    },
+    {
+      "id": "5aec3e4f8607",
+      "kind": "image",
+      "src": "assets/legacy/interactive/9883bb5a1370f38219a4a190187bbfb0.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 536812,
+      "status": "ready"
+    },
+    {
+      "id": "877ed1ca44cc",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3109d9488d362b5adafc70b9d9b3624d.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 472706,
+      "status": "ready"
+    },
+    {
+      "id": "39cb95c60857",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a253ddb7a971d3cb1ff097c36774de14.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 475145,
+      "status": "ready"
+    },
+    {
+      "id": "77d6c028eae2",
+      "kind": "image",
+      "src": "assets/legacy/interactive/183fcbbabe7dbc94a9cdd8ea0070833a.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 472308,
+      "status": "ready"
+    },
+    {
+      "id": "b80c81e15859",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f767562690faf4e2d8b3097d24128e0d.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 481621,
+      "status": "ready"
+    },
+    {
+      "id": "3d407b795b3b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/edb3d96744eec8cbbfa6825997b57aca.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 467674,
+      "status": "ready"
+    },
+    {
+      "id": "018c0ea5ea44",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5e058c641548094c8c954a8befcdae55.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 470658,
+      "status": "ready"
+    },
+    {
+      "id": "4f965f38b249",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5673bde7377f92cdc7b6ed3e7407979e.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 472041,
+      "status": "ready"
+    },
+    {
+      "id": "03672a47488c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/6966b8ba39b064ad6b493cca4a150645.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 479651,
+      "status": "ready"
+    },
+    {
+      "id": "96f62251807a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8e236c724ae88b41192b3ff2ad35b025.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 478516,
+      "status": "ready"
+    },
+    {
+      "id": "47849f4141c4",
+      "kind": "image",
+      "src": "assets/legacy/interactive/9fdb0d87214cf7bb5ca863b5f8e9b998.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 478271,
+      "status": "ready"
+    },
+    {
+      "id": "71e04b0e3f43",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f80028f3a0384b14390accb701066388.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 479940,
+      "status": "ready"
+    },
+    {
+      "id": "7a439e22b5fc",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5fb20b79a45466c6c06b390d137fc37d.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 392703,
+      "status": "ready"
+    },
+    {
+      "id": "ba12b5684db2",
+      "kind": "image",
+      "src": "assets/legacy/interactive/4268de7d5dd9a1e01c712b7317e45396.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 162165,
+      "status": "ready"
+    },
+    {
+      "id": "6850ad5774f6",
+      "kind": "image",
+      "src": "assets/legacy/interactive/1501ef614d249478994fac0bd5497e98.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 211927,
+      "status": "ready"
+    },
+    {
+      "id": "b0a6134fcb2e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/76820afc8debe534c64c37574cfe7570.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 214305,
+      "status": "ready"
+    },
+    {
+      "id": "dcf79e7629aa",
+      "kind": "image",
+      "src": "assets/legacy/interactive/36233bb42090255d3d123bb96a57e287.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 212539,
+      "status": "ready"
+    },
+    {
+      "id": "3fa5e47d950e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/0697fdc1a5dd1e20e8beac77ca8502d7.png",
+      "width": 1080,
+      "height": 1610,
+      "bytes": 454482,
+      "status": "ready"
+    },
+    {
+      "id": "56e0ad69150e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/6865ab927a139238f7cb1d81cbf34451.png",
+      "width": 1080,
+      "height": 543,
+      "bytes": 469,
+      "status": "ready"
+    },
+    {
+      "id": "c0090255db35",
+      "kind": "image",
+      "src": "assets/legacy/interactive/ffb78030a6402b238ccfba61a5ae7596.png",
+      "width": 1080,
+      "height": 72,
+      "bytes": 1261,
+      "status": "ready"
+    },
+    {
+      "id": "1e4df20978b4",
+      "kind": "image",
+      "src": "assets/legacy/interactive/69ada07fb4e9db0c313980de2a588c58.png",
+      "width": 1080,
+      "height": 543,
+      "bytes": 129970,
+      "status": "ready"
+    },
+    {
+      "id": "e7103e2e799a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/621381e0e87c84871a1478fd187dec64.png",
+      "width": 1080,
+      "height": 72,
+      "bytes": 2328,
+      "status": "ready"
+    },
+    {
+      "id": "09a8b4c097b6",
+      "kind": "image",
+      "src": "assets/legacy/interactive/018b596ffe169ad57aee24635883a90f.png",
+      "width": 1080,
+      "height": 72,
+      "bytes": 724,
+      "status": "ready"
+    },
+    {
+      "id": "018f59693c82",
+      "kind": "image",
+      "src": "assets/legacy/interactive/6b37fc01b6ed51c0e042be7bc5642af4.png",
+      "width": 1080,
+      "height": 543,
+      "bytes": 135081,
+      "status": "ready"
+    },
+    {
+      "id": "9c90bbbf87f6",
+      "kind": "image",
+      "src": "assets/legacy/interactive/cbf892f8e791cebe249dc87a9ec497cb.png",
+      "width": 1080,
+      "height": 543,
+      "bytes": 130654,
+      "status": "ready"
+    },
+    {
+      "id": "2a0c14a2fb5e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/01d68bff512c45cbd8ec02bb89a9877f.png",
+      "width": 1080,
+      "height": 543,
+      "bytes": 129625,
+      "status": "ready"
+    },
+    {
+      "id": "f65b410d9ca0",
+      "kind": "image",
+      "src": "assets/legacy/interactive/6517fb8c30864962b758f297912aefa8.png",
+      "width": 1080,
+      "height": 543,
+      "bytes": 123360,
+      "status": "ready"
+    },
+    {
+      "id": "beca43a7b39f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/490606bbcf61123c28ce76678e8796a5.png",
+      "width": 1080,
+      "height": 543,
+      "bytes": 138531,
+      "status": "ready"
+    },
+    {
+      "id": "b193f7e6912f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/9e801a46ff0991bd3d3b5c421d2bd42c.png",
+      "width": 1080,
+      "height": 1227,
+      "bytes": 736824,
+      "status": "ready"
+    },
+    {
+      "id": "0f3a9c1012b6",
+      "kind": "image",
+      "src": "assets/legacy/interactive/c8a5ff189f744a4d5103d61372b86852.png",
+      "width": 1080,
+      "height": 921,
+      "bytes": 668,
+      "status": "ready"
+    },
+    {
+      "id": "220e0c3e1fdf",
+      "kind": "image",
+      "src": "assets/legacy/interactive/7e5e301c9a87eab6b6b4d95658820203.png",
+      "width": 1080,
+      "height": 921,
+      "bytes": 480536,
+      "status": "ready"
+    },
+    {
+      "id": "0f7aebc56dc0",
+      "kind": "image",
+      "src": "assets/legacy/interactive/6103e6d9c6e4f6a74c6a5a7429005750.png",
+      "width": 1080,
+      "height": 921,
+      "bytes": 486710,
+      "status": "ready"
+    },
+    {
+      "id": "ae528449fb26",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5a8e9e63b168f98e255b1acaba422d19.png",
+      "width": 1080,
+      "height": 921,
+      "bytes": 479594,
+      "status": "ready"
+    },
+    {
+      "id": "bdc764225b25",
+      "kind": "image",
+      "src": "assets/legacy/interactive/2c094fee9eaf44d974b291643c329d16.png",
+      "width": 1080,
+      "height": 2528,
+      "bytes": 916919,
+      "status": "ready"
+    },
+    {
+      "id": "9c700d126f38",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5cd4e26df82f49053f70fcf5cf3ac52d.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274080,
+      "status": "ready"
+    },
+    {
+      "id": "21ad06ad3d3a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e797aa91d25e1433a4d3f06377729888.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274340,
+      "status": "ready"
+    },
+    {
+      "id": "7255e83e4ae1",
+      "kind": "image",
+      "src": "assets/legacy/interactive/4c347b4acb0cc466f31199dc72cae802.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 273930,
+      "status": "ready"
+    },
+    {
+      "id": "88559a5a174b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/55deff659c8a07a11a08aa082f8f6f8d.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274143,
+      "status": "ready"
+    },
+    {
+      "id": "ba8a2ed6b334",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b89fe51bd41cf81bdd6aa4f9186bbc8d.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274049,
+      "status": "ready"
+    },
+    {
+      "id": "551b89eacdf7",
+      "kind": "image",
+      "src": "assets/legacy/interactive/7205e0e7705e9542cf0269bf9ef77cd0.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259195,
+      "status": "ready"
+    },
+    {
+      "id": "b42c4a737e45",
+      "kind": "image",
+      "src": "assets/legacy/interactive/873f344fbf198bc75067995e0f6af50c.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259487,
+      "status": "ready"
+    },
+    {
+      "id": "5971ed7e7421",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3f479c1147b43257fc00c975095d3687.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 262243,
+      "status": "ready"
+    },
+    {
+      "id": "9bc9bb65be20",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5570d95f7ba3070c8d0d05b6c9bdbf73.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259760,
+      "status": "ready"
+    },
+    {
+      "id": "173d0af9829a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/ee7205396a984d2ba94eb6c3012ba1d1.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259800,
+      "status": "ready"
+    },
+    {
+      "id": "e8aaf829799e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/ba72bec8b23e4cdbf34d034509487b0c.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259962,
+      "status": "ready"
+    },
+    {
+      "id": "34afbf594632",
+      "kind": "image",
+      "src": "assets/legacy/interactive/252874674d9ef879937bc57224ea553c.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259769,
+      "status": "ready"
+    },
+    {
+      "id": "f39b5271839c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/bae6b2fc943ac4d82db278eee5fa0c06.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259524,
+      "status": "ready"
+    },
+    {
+      "id": "2e78b181b974",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e3c89584bace28c8df3dfc3b5de429f0.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259677,
+      "status": "ready"
+    },
+    {
+      "id": "df9fd920f05a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/53c9022ca465797c04131a82e0011620.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259752,
+      "status": "ready"
+    },
+    {
+      "id": "b035da52b732",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d9ec4b44c4ad89e394f56800e174fd3a.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259945,
+      "status": "ready"
+    },
+    {
+      "id": "58fc14168d06",
+      "kind": "image",
+      "src": "assets/legacy/interactive/aa14d176bb6a4de61e7713dc1096c9d6.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 259758,
+      "status": "ready"
+    },
+    {
+      "id": "5277a22699cd",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d987044dc6bf72df8acdf9418fd87cd6.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 267767,
+      "status": "ready"
+    },
+    {
+      "id": "f7529e2c9bda",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f65b951f6e9ae8cb6d0ab9950455f792.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 279464,
+      "status": "ready"
+    },
+    {
+      "id": "da5e5321aab8",
+      "kind": "image",
+      "src": "assets/legacy/interactive/2693f5fbba32a872d1a99b7ac7161ad6.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 277822,
+      "status": "ready"
+    },
+    {
+      "id": "1428ac52e99a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d9a4645ea833951a8e5a4aa33ebb1106.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274950,
+      "status": "ready"
+    },
+    {
+      "id": "db8cf2808c01",
+      "kind": "image",
+      "src": "assets/legacy/interactive/042dc7ffc7a0dc48ff022826c0660115.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 275063,
+      "status": "ready"
+    },
+    {
+      "id": "3b763c27be78",
+      "kind": "image",
+      "src": "assets/legacy/interactive/474dc3763fdb3b1d771d6a7295dd810d.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 275099,
+      "status": "ready"
+    },
+    {
+      "id": "33e5f66ceeee",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a3b680e404be7f1776fad2732371821a.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 275008,
+      "status": "ready"
+    },
+    {
+      "id": "6fc289f02d99",
+      "kind": "image",
+      "src": "assets/legacy/interactive/fc2667d8678a4c4368515e131caca1cc.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274951,
+      "status": "ready"
+    },
+    {
+      "id": "e26f97d2912f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/41bf7de89bfa7c6cd647b195f0da8d00.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274811,
+      "status": "ready"
+    },
+    {
+      "id": "cf2bf59b0b32",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b3316811041840cc06c9395554cb0a75.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274780,
+      "status": "ready"
+    },
+    {
+      "id": "0e0685e38dda",
+      "kind": "image",
+      "src": "assets/legacy/interactive/4e29ef980a77f268ab33e303c6762e3d.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274832,
+      "status": "ready"
+    },
+    {
+      "id": "4dfe325e18b1",
+      "kind": "image",
+      "src": "assets/legacy/interactive/060ef01939602bdd1cf8022db1dfe3cb.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274853,
+      "status": "ready"
+    },
+    {
+      "id": "23427fcf82b7",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b96746ae57a1a4fd3e8e06cd076d1379.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274747,
+      "status": "ready"
+    },
+    {
+      "id": "b6a2f29e942f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/dbdf44f3b6a1739c96c7555f9e975e5e.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 274806,
+      "status": "ready"
+    },
+    {
+      "id": "6447490d4aa6",
+      "kind": "image",
+      "src": "assets/legacy/interactive/25009a5a2e961adb6cb09b42f43c7670.png",
+      "width": 1080,
+      "height": 3241,
+      "bytes": 114631,
+      "status": "ready"
+    },
+    {
+      "id": "43f6bc5ca90d",
+      "kind": "image",
+      "src": "assets/legacy/interactive/050d00ad7c3391242fbd9795ca9511ea.png",
+      "width": 1080,
+      "height": 2811,
+      "bytes": 176776,
+      "status": "ready"
+    },
+    {
+      "id": "85c2761415fe",
+      "kind": "image",
+      "src": "assets/legacy/interactive/319506fadee0b2fb455c2b1e71803370.png",
+      "width": 1080,
+      "height": 790,
+      "bytes": 115909,
+      "status": "ready"
+    },
+    {
+      "id": "b6393ace5cce",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d3633ec0cc67fb1164f11ad8e36ef6a7.png",
+      "width": 1080,
+      "height": 790,
+      "bytes": 28222,
+      "status": "ready"
+    },
+    {
+      "id": "0015829e48a9",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b54ca0d869382a07337699d68eef233e.png",
+      "width": 400,
+      "height": 400,
+      "bytes": 21882,
+      "status": "ready"
+    },
+    {
+      "id": "b35c7290e42f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/65ad877cda7e92022e9dc2088ac6d30e.png",
+      "width": 400,
+      "height": 400,
+      "bytes": 29858,
+      "status": "ready"
+    },
+    {
+      "id": "64104840a854",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a10eca709da0cad4c21818a387fb54f0.jpg",
+      "width": 1080,
+      "height": 1109,
+      "bytes": 79099,
+      "status": "ready"
+    },
+    {
+      "id": "8f17094c05b6",
+      "kind": "image",
+      "src": "assets/legacy/interactive/bc70f00d722749ed69ce39e8d2e921d9.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 44678,
+      "status": "ready"
+    },
+    {
+      "id": "cc5b84662a22",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3896cf12996e25b3f781251760caf5a8.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45150,
+      "status": "ready"
+    },
+    {
+      "id": "edd2017e2bb0",
+      "kind": "image",
+      "src": "assets/legacy/interactive/6cce810148c74e2a13599d0f1f6eb16c.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45248,
+      "status": "ready"
+    },
+    {
+      "id": "8b788382f581",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5470f1c11db60eea4e7928259cbf2762.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45328,
+      "status": "ready"
+    },
+    {
+      "id": "a4bff8a1701e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/36ae7081b0bf506adf6a77151b5cc50b.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45062,
+      "status": "ready"
+    },
+    {
+      "id": "7c9f49a6af74",
+      "kind": "image",
+      "src": "assets/legacy/interactive/13c87ca37d27387294681926eceed628.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45240,
+      "status": "ready"
+    },
+    {
+      "id": "bfedc963e35e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/290e7cf66713a12cfec3e3836ed98cc2.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45392,
+      "status": "ready"
+    },
+    {
+      "id": "a7323e1dfbbd",
+      "kind": "image",
+      "src": "assets/legacy/interactive/0ea2d1f811f23063c42ff9c15691b1b9.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45338,
+      "status": "ready"
+    },
+    {
+      "id": "b7b2eda15e75",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e5890bef3d3a915e3810cf96e784935f.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45188,
+      "status": "ready"
+    },
+    {
+      "id": "08450f50cb3e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b034738687e3cb7adc6a3bde37b07a49.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45158,
+      "status": "ready"
+    },
+    {
+      "id": "10a4d389d269",
+      "kind": "image",
+      "src": "assets/legacy/interactive/df594b592eafedc52c5a21b51be264a2.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45034,
+      "status": "ready"
+    },
+    {
+      "id": "e1f45fc45e11",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a26c1ace3edc6a80a583fe7122aa9b1b.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 44942,
+      "status": "ready"
+    },
+    {
+      "id": "1fbd49f07597",
+      "kind": "image",
+      "src": "assets/legacy/interactive/915451f2eb6e89710c457e43aede7d5a.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45210,
+      "status": "ready"
+    },
+    {
+      "id": "21b8d482cd29",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d113bbcae52ab61d093f010fe34271f3.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45372,
+      "status": "ready"
+    },
+    {
+      "id": "76dda1692603",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f86d2eec243ec967b24f93cb181e69e2.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45308,
+      "status": "ready"
+    },
+    {
+      "id": "eb86de622795",
+      "kind": "image",
+      "src": "assets/legacy/interactive/af44d0e06e80e1dbf34c909cfbcfc41a.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45230,
+      "status": "ready"
+    },
+    {
+      "id": "fad747cfb29a",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a80d908cd75fcd8e1abf4e05d197d10d.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45222,
+      "status": "ready"
+    },
+    {
+      "id": "feaea6c057fe",
+      "kind": "image",
+      "src": "assets/legacy/interactive/9e4d70bc5bf4af1be969e6b806f0cd17.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45206,
+      "status": "ready"
+    },
+    {
+      "id": "088ba6103a76",
+      "kind": "image",
+      "src": "assets/legacy/interactive/adb47b1858929145e4bc1922e8e946b2.png",
+      "width": 1080,
+      "height": 1158,
+      "bytes": 45264,
+      "status": "ready"
+    },
+    {
+      "id": "33e22b7f35f7",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f2e86cf869e602533875f94cb1fb24e1.png",
+      "width": 1080,
+      "height": 273,
+      "bytes": 12346,
+      "status": "ready"
+    },
+    {
+      "id": "8a27abd01222",
+      "kind": "image",
+      "src": "assets/legacy/interactive/704693444538cc2da3ea2a1b7bf52fa5.png",
+      "width": 1080,
+      "height": 715,
+      "bytes": 93132,
+      "status": "ready"
+    },
+    {
+      "id": "31736146dfe6",
+      "kind": "image",
+      "src": "assets/legacy/interactive/0bee7727cc7760980b60b2a921c29a7b.png",
+      "width": 1080,
+      "height": 827,
+      "bytes": 4174,
+      "status": "ready"
+    },
+    {
+      "id": "50f00db16bf1",
+      "kind": "image",
+      "src": "assets/legacy/interactive/99c04ef73969841d40f60d0ad2fc609a.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 14652,
+      "status": "ready"
+    },
+    {
+      "id": "0edd22a897e2",
+      "kind": "image",
+      "src": "assets/legacy/interactive/df3e0188d577dade8be6f054f445478d.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 23594,
+      "status": "ready"
+    },
+    {
+      "id": "e80d6435f04f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/4ad875249bcc96089af1e58bbe252ed9.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 32488,
+      "status": "ready"
+    },
+    {
+      "id": "10071fa78a10",
+      "kind": "image",
+      "src": "assets/legacy/interactive/2df9c62dfa2e43bcbd8d8806aaaa7fda.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 34862,
+      "status": "ready"
+    },
+    {
+      "id": "48b87dd80fa3",
+      "kind": "image",
+      "src": "assets/legacy/interactive/35a06b6f091e34e3b10caeaea268de71.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 35248,
+      "status": "ready"
+    },
+    {
+      "id": "724258d66c12",
+      "kind": "image",
+      "src": "assets/legacy/interactive/ec1fc12bf7f0b231b4a9e15ef76bf9f4.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 35342,
+      "status": "ready"
+    },
+    {
+      "id": "1451ea01d7d7",
+      "kind": "image",
+      "src": "assets/legacy/interactive/92f43f89619c5b9a7477963e031169ed.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 35236,
+      "status": "ready"
+    },
+    {
+      "id": "a68a0e4e5399",
+      "kind": "image",
+      "src": "assets/legacy/interactive/bdaa2849d3e80ee32974dbf440585b02.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 35196,
+      "status": "ready"
+    },
+    {
+      "id": "c5cfafb9aa84",
+      "kind": "image",
+      "src": "assets/legacy/interactive/c7285d632e0ad79e7a97741dfd32e2fa.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 30200,
+      "status": "ready"
+    },
+    {
+      "id": "f253573a9daf",
+      "kind": "image",
+      "src": "assets/legacy/interactive/18b4b275c678f18de6fe1ed25080d4f1.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 23382,
+      "status": "ready"
+    },
+    {
+      "id": "7617f530f643",
+      "kind": "image",
+      "src": "assets/legacy/interactive/a0fb54beac922c0f6e0f2de4e5f7fb9a.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 32502,
+      "status": "ready"
+    },
+    {
+      "id": "0a69be953e70",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b07de3f9ac6df4952aa1752d16d25c23.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 18756,
+      "status": "ready"
+    },
+    {
+      "id": "3a74c3c9911c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e5b0857b42575288247d88d1a7809538.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 14646,
+      "status": "ready"
+    },
+    {
+      "id": "0ec57fe4f1f7",
+      "kind": "image",
+      "src": "assets/legacy/interactive/fa961c6be05a4f80a378b760e5e8717a.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 16072,
+      "status": "ready"
+    },
+    {
+      "id": "6f013113f824",
+      "kind": "image",
+      "src": "assets/legacy/interactive/631478c84778dd92262dc50d767e709f.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 28312,
+      "status": "ready"
+    },
+    {
+      "id": "260654191329",
+      "kind": "image",
+      "src": "assets/legacy/interactive/734a2fe192fbd141855527729fb79d5f.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 39508,
+      "status": "ready"
+    },
+    {
+      "id": "caedfdd4a34e",
+      "kind": "image",
+      "src": "assets/legacy/interactive/327fc4fed9ad055277f9c96f965475f6.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 41502,
+      "status": "ready"
+    },
+    {
+      "id": "8fd91ff847a1",
+      "kind": "image",
+      "src": "assets/legacy/interactive/057621d4051ba606cc3d8bce742fae99.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 42210,
+      "status": "ready"
+    },
+    {
+      "id": "eb1939ef3176",
+      "kind": "image",
+      "src": "assets/legacy/interactive/0b25db725f18949576fecf632a7bbda7.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 42666,
+      "status": "ready"
+    },
+    {
+      "id": "77a4e2b72f3f",
+      "kind": "image",
+      "src": "assets/legacy/interactive/1881113be0203de9a5f20f9aedf74c97.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 42442,
+      "status": "ready"
+    },
+    {
+      "id": "f288b7d360e5",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e149aeb33823008ad73c3416dfe5114b.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 42552,
+      "status": "ready"
+    },
+    {
+      "id": "08a02849f442",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d2e5ade2b720570c10c778c53e921c4e.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 42508,
+      "status": "ready"
+    },
+    {
+      "id": "2d7f5b8422da",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b40d3bbd47b633b2149afb8f4fa211cd.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 36900,
+      "status": "ready"
+    },
+    {
+      "id": "f7326b2193ea",
+      "kind": "image",
+      "src": "assets/legacy/interactive/34683a8d010b739461d41c20a80ce11d.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 38172,
+      "status": "ready"
+    },
+    {
+      "id": "e7078532352b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/bd7702c3c223a7e6620a99a53b0120c6.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 38144,
+      "status": "ready"
+    },
+    {
+      "id": "6f4a63f6b273",
+      "kind": "image",
+      "src": "assets/legacy/interactive/86e90219114fa48d9e294a384b498043.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 35608,
+      "status": "ready"
+    },
+    {
+      "id": "aa23e66e41c4",
+      "kind": "image",
+      "src": "assets/legacy/interactive/c27474a426f8dbf58628261442988d14.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 21018,
+      "status": "ready"
+    },
+    {
+      "id": "8beab1a7041c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3cdfe0725637ee4a2115659367927f00.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 13858,
+      "status": "ready"
+    },
+    {
+      "id": "ca0c07ec3429",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f42e223c5043883659c35ef2c698b62b.png",
+      "width": 1080,
+      "height": 714,
+      "bytes": 15950,
+      "status": "ready"
+    },
+    {
+      "id": "60c48b4ba8b1",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e7cc6d293e71316f326df6066baa8db8.png",
+      "width": 1080,
+      "height": 1610,
+      "bytes": 53554,
+      "status": "ready"
+    },
+    {
+      "id": "2b6983a4a61b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/79284fcab2d309266de35b909ca8d5b0.png",
+      "width": 1080,
+      "height": 72,
+      "bytes": 240,
+      "status": "ready"
+    },
+    {
+      "id": "de2ed5bea46d",
+      "kind": "image",
+      "src": "assets/legacy/interactive/93f92957f46d600e45611e7f094592c7.png",
+      "width": 1080,
+      "height": 543,
+      "bytes": 17968,
+      "status": "ready"
+    },
+    {
+      "id": "a808a3380073",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e19fe081fc93521ef45d5849611de23b.png",
+      "width": 1080,
+      "height": 72,
+      "bytes": 1236,
+      "status": "ready"
+    },
+    {
+      "id": "4acfc3e0f7a4",
+      "kind": "image",
+      "src": "assets/legacy/interactive/7a27afc0787d11f894ed30d83a030bd6.png",
+      "width": 1080,
+      "height": 72,
+      "bytes": 844,
+      "status": "ready"
+    },
+    {
+      "id": "c2d854274245",
+      "kind": "image",
+      "src": "assets/legacy/interactive/cdcd82e12409c016dfa1df7d53fe3666.png",
+      "width": 1080,
+      "height": 543,
+      "bytes": 21750,
+      "status": "ready"
+    },
+    {
+      "id": "ef44cb22e1cb",
+      "kind": "image",
+      "src": "assets/legacy/interactive/679f6b09af3daf5e0c2055b37df8bb0d.png",
+      "width": 1080,
+      "height": 543,
+      "bytes": 19390,
+      "status": "ready"
+    },
+    {
+      "id": "a514c6b7987b",
+      "kind": "image",
+      "src": "assets/legacy/interactive/31aa2c1de5fd6272df6cbde1d0f24a1c.png",
+      "width": 1080,
+      "height": 921,
+      "bytes": 44220,
+      "status": "ready"
+    },
+    {
+      "id": "901ffaa82fcd",
+      "kind": "image",
+      "src": "assets/legacy/interactive/f9081d0a4ea9abd017d0f69d7d460ad0.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32326,
+      "status": "ready"
+    },
+    {
+      "id": "df13bab5ccbd",
+      "kind": "image",
+      "src": "assets/legacy/interactive/80157264866f2c1356c92dbdfedbf54d.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32280,
+      "status": "ready"
+    },
+    {
+      "id": "e37afda52a4d",
+      "kind": "image",
+      "src": "assets/legacy/interactive/6260530a8dcac5886f4d4fabbcb3f08d.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32322,
+      "status": "ready"
+    },
+    {
+      "id": "4e74abb64c92",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b4f7e09fd12774717428d8479d16bdcd.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 30614,
+      "status": "ready"
+    },
+    {
+      "id": "c321920434fe",
+      "kind": "image",
+      "src": "assets/legacy/interactive/01f3acff19019c3f7627cec6ddaff4f9.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32106,
+      "status": "ready"
+    },
+    {
+      "id": "ed6adab6b883",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8466284853ade6de51bf1b28e5eacd3e.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32462,
+      "status": "ready"
+    },
+    {
+      "id": "d341309e9635",
+      "kind": "image",
+      "src": "assets/legacy/interactive/234de893be68b5849ea535b93d6f7f48.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32540,
+      "status": "ready"
+    },
+    {
+      "id": "a45a5199f765",
+      "kind": "image",
+      "src": "assets/legacy/interactive/613254dd9cb32cbc7d70d6d0a7a75df5.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32442,
+      "status": "ready"
+    },
+    {
+      "id": "cbc8af0d5e51",
+      "kind": "image",
+      "src": "assets/legacy/interactive/224276c3fdb5c73320a09642f0e59975.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32378,
+      "status": "ready"
+    },
+    {
+      "id": "67557f0cb492",
+      "kind": "image",
+      "src": "assets/legacy/interactive/767b95124cb9b8ab57ff87a9bfa5b552.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32706,
+      "status": "ready"
+    },
+    {
+      "id": "3c71c12e9803",
+      "kind": "image",
+      "src": "assets/legacy/interactive/3183a4f93ee650373e51eddc85290ccc.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32458,
+      "status": "ready"
+    },
+    {
+      "id": "75d98fdf85d0",
+      "kind": "image",
+      "src": "assets/legacy/interactive/0d1931f8ca90b6a356538f30394c5df8.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32286,
+      "status": "ready"
+    },
+    {
+      "id": "991c04c61549",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e5fa8749353d12e788783d099908ce75.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32166,
+      "status": "ready"
+    },
+    {
+      "id": "1d3aae309fe9",
+      "kind": "image",
+      "src": "assets/legacy/interactive/999def26d960b68e240e92381f920b67.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32256,
+      "status": "ready"
+    },
+    {
+      "id": "f40f023a792c",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8df0c2221ab6892d352c4a2e05e8a4b5.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32238,
+      "status": "ready"
+    },
+    {
+      "id": "be71cc232dc1",
+      "kind": "image",
+      "src": "assets/legacy/interactive/c9857c47b7b2c7d4a93d45538ae44f85.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32278,
+      "status": "ready"
+    },
+    {
+      "id": "ac72b4359de1",
+      "kind": "image",
+      "src": "assets/legacy/interactive/83c52e8f60c30eb1175c910d8f48435e.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32270,
+      "status": "ready"
+    },
+    {
+      "id": "9495f947ebd8",
+      "kind": "image",
+      "src": "assets/legacy/interactive/9291ec68d659f2e23f5e28780841b84c.png",
+      "width": 1080,
+      "height": 994,
+      "bytes": 32272,
+      "status": "ready"
+    },
+    {
+      "id": "4afa939181d4",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5bf4e8ce9da13beaae41eaf0d28812e1.png",
+      "width": 1080,
+      "height": 3241,
+      "bytes": 178472,
+      "status": "ready"
+    },
+    {
+      "id": "e9b271162940",
+      "kind": "image",
+      "src": "assets/legacy/interactive/2ee2bb7fcbf926c7500328406f898162.png",
+      "width": 1080,
+      "height": 2811,
+      "bytes": 131992,
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+---
+import '../styles/global.css';
+import { ClientRouter } from 'astro:transitions';
+import SiteHeader from '../components/SiteHeader.astro';
+import { assetPath, brandMeta, sitePath, type Brand } from '../lib/archive';
+
+interface Props {
+  title: string;
+  description?: string;
+  brand?: Brand;
+  canonicalPath?: string;
+  image?: string;
+  articleMeta?: { publishedAt: string; brand: Brand };
+  hasArchiveNav?: boolean;
+  activeBrand?: Brand | null;
+}
+
+const { title, description = 'ColorOS 与 OriginOS 系统升级档案，快速、清晰地回顾每一次体验更新。', brand = 'coloros', canonicalPath = Astro.url.pathname, image = 'assets/images/logo.png', articleMeta, hasArchiveNav = false, activeBrand = brand } = Astro.props;
+const meta = brandMeta[brand];
+const siteUrl = (import.meta.env.PUBLIC_SITE_URL || 'https://ricky2036.github.io/ColorOS_Updates_Web').replace(/\/$/, '');
+const base = import.meta.env.BASE_URL || '/';
+const relativeCanonical = canonicalPath.startsWith(base) ? canonicalPath.slice(base.length) : canonicalPath.replace(/^\//, '');
+const canonical = new URL(relativeCanonical, `${siteUrl}/`).toString();
+const imagePath = assetPath(image) ?? sitePath('assets/images/logo.png');
+const imageUrl = new URL(imagePath.replace(/^\//, ''), `${siteUrl}/`).toString();
+const jsonLd = articleMeta ? {
+  '@context': 'https://schema.org', '@type': 'Article', headline: title, description, image: imageUrl,
+  datePublished: articleMeta.publishedAt, author: { '@type': 'Organization', name: 'OS档案馆' },
+  publisher: { '@type': 'Organization', name: 'OS档案馆' },
+} : null;
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#f4f5f7" />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={`${title} · OS档案馆`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={articleMeta ? 'article' : 'website'} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={imageUrl} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href={sitePath('favicon.svg')} />
+    <link rel="manifest" href={sitePath('site.webmanifest')} />
+    <title>{title} · OS档案馆</title>
+    {jsonLd && <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+    <ClientRouter />
+  </head>
+  <body style={`--brand-accent:${meta.accent};--brand-soft:${meta.soft}`}>
+    <div class="ambient-layer" aria-hidden="true">
+      <i class="ambient-blob blob-cyan-a"></i>
+      <i class="ambient-blob blob-blue-a"></i>
+      <i class="ambient-blob blob-violet-d"></i>
+      <i class="ambient-blob blob-blue-b"></i>
+      <i class="ambient-blob blob-violet-c"></i>
+      <i class="ambient-blob blob-violet-a"></i>
+      <i class="ambient-blob blob-cyan-b"></i>
+      <i class="ambient-blob blob-violet-b"></i>
+    </div>
+    <a class="skip-link" href="#main-content">跳到主要内容</a>
+    <SiteHeader activeBrand={activeBrand ?? undefined} hasArchiveNav={hasArchiveNav} />
+    <div id="main-content"><slot /></div>
+    <script is:inline src={sitePath('scripts/archive-ui.js')} data-astro-rerun></script>
+  </body>
+</html>

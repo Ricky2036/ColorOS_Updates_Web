@@ -1,0 +1,33 @@
+{
+  "articleId": "OPPO_ColorOS_16_正式版升级适配计划",
+  "order": 7,
+  "title": "OPPO ColorOS 16 正式版升级适配计划",
+  "brand": "coloros",
+  "year": 2025,
+  "publishedAt": "2025-01-01",
+  "slug": "07-oppo-coloros-16",
+  "kind": "gallery",
+  "legacyPath": "OPPO_ColorOS_16_正式版升级适配计划.html",
+  "html": "<section class=\"card\">\n                <div class=\"card-body\">\n          <div class=\"image-gallery\">\n            <img loading=\"eager\" decoding=\"async\" fetchpriority=\"high\" width=\"1080\" height=\"6233\" src=\"../../../assets/responsive/1427ce001d9b02eb-960.webp\" alt=\"OPPO ColorOS 16 正式版升级适配计划 更新配图\" srcset=\"../../../assets/responsive/1427ce001d9b02eb-480.webp 480w, ../../../assets/responsive/1427ce001d9b02eb-960.webp 960w, ../../../assets/responsive/1427ce001d9b02eb-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n          </div>\n\n        </div>\n    </section>",
+  "cover": {
+    "src": "assets/covers/a22f3e77275ffce0-1200.webp",
+    "srcset": "assets/covers/a22f3e77275ffce0-480.webp 480w, assets/covers/a22f3e77275ffce0-800.webp 800w, assets/covers/a22f3e77275ffce0-1200.webp 1200w",
+    "avifSrcset": "assets/covers/a22f3e77275ffce0-480.avif 480w, assets/covers/a22f3e77275ffce0-800.avif 800w, assets/covers/a22f3e77275ffce0-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OPPO ColorOS 16 正式版升级适配计划 封面",
+    "dominantColor": "#181838",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "1427ce001d9b",
+      "kind": "image",
+      "src": "assets/responsive/1427ce001d9b02eb-960.webp",
+      "width": 1080,
+      "height": 6233,
+      "bytes": 385214,
+      "status": "ready"
+    }
+  ]
+}

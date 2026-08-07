@@ -1,0 +1,52 @@
+{
+  "articleId": "OriginOS_5_十一月体验优化一览",
+  "order": 29,
+  "title": "OriginOS 5 十一月体验优化一览",
+  "brand": "originos",
+  "year": 2024,
+  "publishedAt": "2024-11-01",
+  "slug": "29-originos-5",
+  "kind": "interactive",
+  "legacyPath": "OriginOS_5_十一月体验优化一览.html",
+  "html": "",
+  "compatPath": "compat/originos/29-originos-5/index.html",
+  "cover": {
+    "src": "assets/covers/7a1ed2d210662064-1200.webp",
+    "srcset": "assets/covers/7a1ed2d210662064-480.webp 480w, assets/covers/7a1ed2d210662064-800.webp 800w, assets/covers/7a1ed2d210662064-1200.webp 1200w",
+    "avifSrcset": "assets/covers/7a1ed2d210662064-480.avif 480w, assets/covers/7a1ed2d210662064-800.avif 800w, assets/covers/7a1ed2d210662064-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OriginOS 5 十一月体验优化一览 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "908cf71ffe24",
+      "kind": "image",
+      "src": "assets/legacy/interactive/8ec9a0f9a280e78b35086fafb10bd6f4.png",
+      "width": 1080,
+      "height": 3778,
+      "bytes": 904541,
+      "status": "ready"
+    },
+    {
+      "id": "918bfd484ded",
+      "kind": "image",
+      "src": "assets/legacy/interactive/2b097a986e6c5cbd1a124aeb6aea4f3b.png",
+      "width": 1080,
+      "height": 3778,
+      "bytes": 207654,
+      "status": "ready"
+    },
+    {
+      "id": "9ed7429aad7d",
+      "kind": "image",
+      "src": "assets/legacy/interactive/acce35736e07841f08444cbd1cffeb7d.png",
+      "width": 1080,
+      "height": 3411,
+      "bytes": 87673,
+      "status": "ready"
+    }
+  ]
+}

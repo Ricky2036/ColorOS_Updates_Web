@@ -1,0 +1,33 @@
+{
+  "articleId": "一图读懂满血_ColorOS_15，流畅_AI_全面进化！",
+  "order": 13,
+  "title": "一图读懂满血 ColorOS 15，流畅 AI 全面进化！",
+  "brand": "coloros",
+  "year": 2025,
+  "publishedAt": "2025-01-01",
+  "slug": "13-coloros-15-ai",
+  "kind": "gallery",
+  "legacyPath": "一图读懂满血_ColorOS_15，流畅_AI_全面进化！.html",
+  "html": "<section class=\"card\">\n                <div class=\"card-body\">\n          <div class=\"image-gallery\">\n            <img loading=\"eager\" decoding=\"async\" fetchpriority=\"high\" width=\"1080\" height=\"4394\" src=\"../../../assets/responsive/87a1cfc10b45ae8e-960.webp\" alt=\"一图读懂满血 ColorOS 15，流畅 AI 全面进化！ 更新配图\" srcset=\"../../../assets/responsive/87a1cfc10b45ae8e-480.webp 480w, ../../../assets/responsive/87a1cfc10b45ae8e-960.webp 960w, ../../../assets/responsive/87a1cfc10b45ae8e-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n          </div>\n\n        </div>\n    </section>",
+  "cover": {
+    "src": "assets/covers/dfde346cf1a63334-1200.webp",
+    "srcset": "assets/covers/dfde346cf1a63334-480.webp 480w, assets/covers/dfde346cf1a63334-800.webp 800w, assets/covers/dfde346cf1a63334-1200.webp 1200w",
+    "avifSrcset": "assets/covers/dfde346cf1a63334-480.avif 480w, assets/covers/dfde346cf1a63334-800.avif 800w, assets/covers/dfde346cf1a63334-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "一图读懂满血 ColorOS 15，流畅 AI 全面进化！ 封面",
+    "dominantColor": "#e8e8e8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "87a1cfc10b45",
+      "kind": "image",
+      "src": "assets/responsive/87a1cfc10b45ae8e-960.webp",
+      "width": 1080,
+      "height": 4394,
+      "bytes": 513746,
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "articleId": "OPPO_ColorOS_八月系统升级一览",
+  "order": 10,
+  "title": "OPPO ColorOS 八月系统升级一览",
+  "brand": "coloros",
+  "year": 2025,
+  "publishedAt": "2025-08-01",
+  "slug": "10-oppo-coloros",
+  "kind": "gallery",
+  "legacyPath": "OPPO_ColorOS_八月系统升级一览.html",
+  "html": "<section class=\"card\">\n                <div class=\"card-body\">\n          <div class=\"image-gallery\">\n            <img loading=\"eager\" decoding=\"async\" fetchpriority=\"high\" width=\"1080\" height=\"6523\" src=\"../../../assets/responsive/0846367ddb5893b7-960.webp\" alt=\"OPPO ColorOS 八月系统升级一览 更新配图\" srcset=\"../../../assets/responsive/0846367ddb5893b7-480.webp 480w, ../../../assets/responsive/0846367ddb5893b7-960.webp 960w, ../../../assets/responsive/0846367ddb5893b7-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n            <img loading=\"lazy\" decoding=\"async\" width=\"1080\" height=\"8446\" src=\"../../../assets/responsive/895ed7a1ba3cd361-960.webp\" alt=\"OPPO ColorOS 八月系统升级一览 更新配图\" srcset=\"../../../assets/responsive/895ed7a1ba3cd361-480.webp 480w, ../../../assets/responsive/895ed7a1ba3cd361-960.webp 960w, ../../../assets/responsive/895ed7a1ba3cd361-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n          </div>\n\n        </div>\n    </section>",
+  "cover": {
+    "src": "assets/covers/2728d50d9fce4775-1200.webp",
+    "srcset": "assets/covers/2728d50d9fce4775-480.webp 480w, assets/covers/2728d50d9fce4775-800.webp 800w, assets/covers/2728d50d9fce4775-1200.webp 1200w",
+    "avifSrcset": "assets/covers/2728d50d9fce4775-480.avif 480w, assets/covers/2728d50d9fce4775-800.avif 800w, assets/covers/2728d50d9fce4775-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OPPO ColorOS 八月系统升级一览 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "0846367ddb58",
+      "kind": "image",
+      "src": "assets/responsive/0846367ddb5893b7-960.webp",
+      "width": 1080,
+      "height": 6523,
+      "bytes": 439842,
+      "status": "ready"
+    },
+    {
+      "id": "895ed7a1ba3c",
+      "kind": "image",
+      "src": "assets/responsive/895ed7a1ba3cd361-960.webp",
+      "width": 1080,
+      "height": 8446,
+      "bytes": 608322,
+      "status": "ready"
+    }
+  ]
+}

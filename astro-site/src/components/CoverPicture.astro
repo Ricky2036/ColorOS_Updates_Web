@@ -1,0 +1,15 @@
+---
+import { assetPath } from '../lib/archive';
+interface Cover { src: string; srcset: string; avifSrcset?: string; width: number; height: number; alt: string; focalPoint: string }
+interface Props { cover: Cover; eager?: boolean; class?: string }
+const { cover, eager = false, class: className } = Astro.props;
+const mapSet = (value?: string) => value?.split(', ').map((item) => {
+  const [src, descriptor] = item.split(' ');
+  return `${assetPath(src)}${descriptor ? ` ${descriptor}` : ''}`;
+}).join(', ');
+---
+<picture class={className}>
+  {cover.avifSrcset && <source type="image/avif" srcset={mapSet(cover.avifSrcset)} sizes="(max-width: 760px) 100vw, 720px" />}
+  <source type="image/webp" srcset={mapSet(cover.srcset)} sizes="(max-width: 760px) 100vw, 720px" />
+  <img src={assetPath(cover.src)} alt={cover.alt} width={cover.width} height={cover.height} loading={eager ? 'eager' : 'lazy'} decoding="async" fetchpriority={eager ? 'high' : undefined} style={`object-position:${cover.focalPoint}`} />
+</picture>

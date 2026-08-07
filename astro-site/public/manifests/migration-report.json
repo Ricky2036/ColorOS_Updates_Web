@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-08-07T10:10:12.781Z",
+  "articles": 29,
+  "interactive": 16,
+  "issues": [
+    {
+      "type": "asset",
+      "ref": "assets/images/interactive/67be0a06646929eb605fbc9f526cc45e.jpg",
+      "message": "ENOENT: no such file or directory, stat '/Users/jingzhan.chen/Documents/antigravity/OS档案馆/assets/images/interactive/67be0a06646929eb605fbc9f526cc45e.jpg'"
+    },
+    {
+      "type": "asset",
+      "ref": "assets/images/interactive/1df87793e4d5bcd413619ea89bef35f5.jpg",
+      "message": "ENOENT: no such file or directory, stat '/Users/jingzhan.chen/Documents/antigravity/OS档案馆/assets/images/interactive/1df87793e4d5bcd413619ea89bef35f5.jpg'"
+    },
+    {
+      "type": "asset",
+      "ref": "assets/images/interactive/f7a307391b737076338205a791c2aff6.jpg",
+      "message": "ENOENT: no such file or directory, stat '/Users/jingzhan.chen/Documents/antigravity/OS档案馆/assets/images/interactive/f7a307391b737076338205a791c2aff6.jpg'"
+    },
+    {
+      "type": "asset",
+      "ref": "assets/images/interactive/32b563a0b9a5e09b4884832f74a18e66.jpg",
+      "message": "ENOENT: no such file or directory, stat '/Users/jingzhan.chen/Documents/antigravity/OS档案馆/assets/images/interactive/32b563a0b9a5e09b4884832f74a18e66.jpg'"
+    },
+    {
+      "type": "asset",
+      "ref": "assets/images/interactive/0b48b1a903e177112cab3889f17fb04e.jpg",
+      "message": "ENOENT: no such file or directory, stat '/Users/jingzhan.chen/Documents/antigravity/OS档案馆/assets/images/interactive/0b48b1a903e177112cab3889f17fb04e.jpg'"
+    },
+    {
+      "type": "asset",
+      "ref": "assets/images/interactive/98be0701d54e185f4eeaad356a66f40b.gif",
+      "message": "文件为空"
+    },
+    {
+      "type": "asset",
+      "ref": "assets/images/interactive/de7cd880aff3d58b3f36fd12853cdb5b.gif",
+      "message": "文件为空"
+    }
+  ]
+}

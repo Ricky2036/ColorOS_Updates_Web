@@ -1,0 +1,52 @@
+{
+  "articleId": "ColorOS_六月系统升级一览",
+  "order": 11,
+  "title": "ColorOS 六月系统升级一览",
+  "brand": "coloros",
+  "year": 2025,
+  "publishedAt": "2025-06-01",
+  "slug": "11-coloros",
+  "kind": "interactive",
+  "legacyPath": "ColorOS_六月系统升级一览.html",
+  "html": "",
+  "compatPath": "compat/coloros/11-coloros/index.html",
+  "cover": {
+    "src": "assets/covers/44ff2cbef3b26227-1200.webp",
+    "srcset": "assets/covers/44ff2cbef3b26227-480.webp 480w, assets/covers/44ff2cbef3b26227-800.webp 800w, assets/covers/44ff2cbef3b26227-1200.webp 1200w",
+    "avifSrcset": "assets/covers/44ff2cbef3b26227-480.avif 480w, assets/covers/44ff2cbef3b26227-800.avif 800w, assets/covers/44ff2cbef3b26227-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "ColorOS 六月系统升级一览 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "4f385b7e6b30",
+      "kind": "image",
+      "src": "assets/legacy/interactive/56ab7c5f8aa986601f5df50a61fbdcde.webp",
+      "width": 1080,
+      "height": 8217,
+      "bytes": 349942,
+      "status": "ready"
+    },
+    {
+      "id": "95977baaad87",
+      "kind": "image",
+      "src": "assets/legacy/interactive/0d2bcae69c5ba5181529d62b029e0cd2.webp",
+      "width": 1080,
+      "height": 5303,
+      "bytes": 311336,
+      "status": "ready"
+    },
+    {
+      "id": "47d8468aaa56",
+      "kind": "image",
+      "src": "assets/legacy/interactive/b41e2dd5c42d36356e404807d1f369a7.webp",
+      "width": 1080,
+      "height": 5892,
+      "bytes": 466368,
+      "status": "ready"
+    }
+  ]
+}

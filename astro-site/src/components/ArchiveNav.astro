@@ -1,0 +1,39 @@
+---
+import Icon from './Icon.astro';
+import { articlePath, assetPath, brandMeta, getArticles, type Brand } from '../lib/archive';
+
+interface Props { brand: Brand; selectedId?: string }
+const { brand, selectedId } = Astro.props;
+const meta = brandMeta[brand];
+const brandArticles = await getArticles(brand);
+const years = [...new Set(brandArticles.map((article) => article.data.year))].sort((a, b) => b - a);
+const navigationTitle = (title: string) => brand === 'coloros' ? title.replace(/^OPPO\s+/i, '').replace(/^手机系统\s+/, '') : title;
+---
+<div class="nav-backdrop" data-nav-backdrop hidden></div>
+<aside class="archive-nav" id="archive-nav" data-brand={brand} aria-label={`${meta.name} 文章目录`} tabindex="-1">
+  <div class="archive-heading">
+    <div>
+      <img src={assetPath(meta.logo)} alt={`${meta.name} Logo`} width="136" height="36" />
+      <span>升级档案</span>
+    </div>
+    <button class="nav-close" type="button" data-nav-close aria-label="关闭文章目录"><Icon name="close" /></button>
+  </div>
+  <div class="archive-list">
+    {years.map((year) => (
+      <section class="year-group">
+        <h2>{year}</h2>
+        <ul>
+          {brandArticles.filter((article) => article.data.year === year).map((article) => (
+            <li>
+              <a class:list={{ active: selectedId === article.data.articleId }} aria-current={selectedId === article.data.articleId ? 'page' : undefined} href={articlePath(article)}>
+                <i class="timeline-marker" aria-hidden="true"></i>
+                <span>{navigationTitle(article.data.title)}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+    <div class="archive-count">{brandArticles.length} 篇记录</div>
+  </div>
+</aside>

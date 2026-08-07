@@ -1,0 +1,61 @@
+{
+  "articleId": "OriginOS_5_春节前体验优化一览",
+  "order": 28,
+  "title": "OriginOS 5 春节前体验优化一览",
+  "brand": "originos",
+  "year": 2025,
+  "publishedAt": "2025-02-01",
+  "slug": "28-originos-5",
+  "kind": "interactive",
+  "legacyPath": "OriginOS_5_春节前体验优化一览.html",
+  "html": "",
+  "compatPath": "compat/originos/28-originos-5/index.html",
+  "cover": {
+    "src": "assets/covers/7634a6486fcf1a06-1200.webp",
+    "srcset": "assets/covers/7634a6486fcf1a06-480.webp 480w, assets/covers/7634a6486fcf1a06-800.webp 800w, assets/covers/7634a6486fcf1a06-1200.webp 1200w",
+    "avifSrcset": "assets/covers/7634a6486fcf1a06-480.avif 480w, assets/covers/7634a6486fcf1a06-800.avif 800w, assets/covers/7634a6486fcf1a06-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OriginOS 5 春节前体验优化一览 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "352eba073630",
+      "kind": "image",
+      "src": "assets/legacy/interactive/016b3f107ef5a79a673cfd7c006f2967.png",
+      "width": 1080,
+      "height": 2800,
+      "bytes": 840895,
+      "status": "ready"
+    },
+    {
+      "id": "1890a0d76ee1",
+      "kind": "image",
+      "src": "assets/legacy/interactive/99e092adaea2454d7623640ce7fc412d.png",
+      "width": 1080,
+      "height": 2800,
+      "bytes": 147506,
+      "status": "ready"
+    },
+    {
+      "id": "e0842de0b089",
+      "kind": "image",
+      "src": "assets/legacy/interactive/de29c26c53be672c5e3e52eb6d7ae913.png",
+      "width": 1080,
+      "height": 2740,
+      "bytes": 88451,
+      "status": "ready"
+    },
+    {
+      "id": "1ac5b823b936",
+      "kind": "image",
+      "src": "assets/legacy/interactive/d1872be5e91a1b1057f72ded26e5a415.png",
+      "width": 1080,
+      "height": 2931,
+      "bytes": 66057,
+      "status": "ready"
+    }
+  ]
+}

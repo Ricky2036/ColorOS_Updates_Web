@@ -1,0 +1,79 @@
+{
+  "articleId": "OriginOS_五月系统升级亮点",
+  "order": 26,
+  "title": "OriginOS 五月系统升级亮点",
+  "brand": "originos",
+  "year": 2025,
+  "publishedAt": "2025-05-01",
+  "slug": "26-originos",
+  "kind": "interactive",
+  "legacyPath": "OriginOS_五月系统升级亮点.html",
+  "html": "",
+  "compatPath": "compat/originos/26-originos/index.html",
+  "cover": {
+    "src": "assets/covers/eaf5f7741fd2dc84-1200.webp",
+    "srcset": "assets/covers/eaf5f7741fd2dc84-480.webp 480w, assets/covers/eaf5f7741fd2dc84-800.webp 800w, assets/covers/eaf5f7741fd2dc84-1200.webp 1200w",
+    "avifSrcset": "assets/covers/eaf5f7741fd2dc84-480.avif 480w, assets/covers/eaf5f7741fd2dc84-800.avif 800w, assets/covers/eaf5f7741fd2dc84-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OriginOS 五月系统升级亮点 封面",
+    "dominantColor": "#f8f8f8",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "6455187edd73",
+      "kind": "image",
+      "src": "assets/legacy/interactive/6bff18ad862c1f513f934e2908634764.png",
+      "width": 1080,
+      "height": 5764,
+      "bytes": 1662190,
+      "status": "ready"
+    },
+    {
+      "id": "dc4be56663ee",
+      "kind": "image",
+      "src": "assets/legacy/interactive/e8518739ad8ad09897ba477ee68ade38.png",
+      "width": 1080,
+      "height": 5764,
+      "bytes": 205994,
+      "status": "ready"
+    },
+    {
+      "id": "e4b1003a10c8",
+      "kind": "image",
+      "src": "assets/legacy/interactive/5344075cd0419ecde49a10e59c1a07ec.png",
+      "width": 1080,
+      "height": 6341,
+      "bytes": 2152036,
+      "status": "ready"
+    },
+    {
+      "id": "5dca724b22f3",
+      "kind": "image",
+      "src": "assets/legacy/interactive/503afbc06620c460cf07a13ba51a98f5.png",
+      "width": 1080,
+      "height": 6488,
+      "bytes": 1443830,
+      "status": "ready"
+    },
+    {
+      "id": "7b599d82d708",
+      "kind": "image",
+      "src": "assets/legacy/interactive/1de44afa7921a74df86cf56ef6853128.png",
+      "width": 1080,
+      "height": 4066,
+      "bytes": 287584,
+      "status": "ready"
+    },
+    {
+      "id": "3fdf313c1416",
+      "kind": "image",
+      "src": "assets/legacy/interactive/1be7f1523f533759cacc3586703b5e19.png",
+      "width": 1080,
+      "height": 4066,
+      "bytes": 287584,
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "articleId": "OPPO_ColorOS_七月系统升级一览_(2026)",
+  "order": 1,
+  "title": "OPPO ColorOS 七月系统升级一览",
+  "brand": "coloros",
+  "year": 2026,
+  "publishedAt": "2026-07-01",
+  "slug": "01-oppo-coloros-2026",
+  "kind": "gallery",
+  "legacyPath": "OPPO_ColorOS_七月系统升级一览_(2026).html",
+  "html": "<section class=\"card\">\n                <div class=\"card-body\">\n          <div class=\"image-gallery\">\n            <img loading=\"eager\" decoding=\"async\" fetchpriority=\"high\" width=\"1043\" height=\"16383\" src=\"../../../assets/responsive/bb282812582022c4-960.webp\" alt=\"OPPO ColorOS 七月系统升级一览 更新配图\" srcset=\"../../../assets/responsive/bb282812582022c4-480.webp 480w, ../../../assets/responsive/bb282812582022c4-960.webp 960w, ../../../assets/responsive/bb282812582022c4-1440.webp 1043w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n          </div>\n\n        </div>\n    </section>",
+  "cover": {
+    "src": "assets/covers/4928557a5771591a-1200.webp",
+    "srcset": "assets/covers/4928557a5771591a-480.webp 480w, assets/covers/4928557a5771591a-800.webp 800w, assets/covers/4928557a5771591a-1200.webp 1200w",
+    "avifSrcset": "assets/covers/4928557a5771591a-480.avif 480w, assets/covers/4928557a5771591a-800.avif 800w, assets/covers/4928557a5771591a-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "OPPO ColorOS 七月系统升级一览 封面",
+    "dominantColor": "#181818",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "bb2828125820",
+      "kind": "image",
+      "src": "assets/responsive/bb282812582022c4-960.webp",
+      "width": 1043,
+      "height": 16383,
+      "bytes": 816670,
+      "status": "ready"
+    }
+  ]
+}

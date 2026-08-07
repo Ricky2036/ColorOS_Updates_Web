@@ -1,0 +1,25 @@
+---
+import Icon from './Icon.astro';
+import { brandMeta, sitePath, type Brand } from '../lib/archive';
+
+interface Props { activeBrand?: Brand; hasArchiveNav?: boolean }
+const { activeBrand, hasArchiveNav = false } = Astro.props;
+---
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand-mark" href={sitePath()} aria-label="OS档案馆首页">
+      <img src={sitePath('assets/images/logo.png')} alt="" width="32" height="32" />
+      <span>OS档案馆</span>
+    </a>
+    <nav class="brand-switcher" aria-label="系统品牌">
+      {Object.entries(brandMeta).map(([key, meta]) => (
+        <a class:list={{ active: activeBrand === key }} href={sitePath(`${key}/`)}>{meta.name}</a>
+      ))}
+    </nav>
+    {hasArchiveNav && (
+      <button class="menu-button" type="button" aria-label="打开文章目录" aria-expanded="false" aria-controls="archive-nav">
+        <Icon name="menu" size={20} /><span class="sr-only">打开目录</span>
+      </button>
+    )}
+  </div>
+</header>

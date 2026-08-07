@@ -1,0 +1,415 @@
+[
+  {
+    "id": "af0c594f6610",
+    "kind": "video",
+    "src": "video/module1/16.mp4",
+    "bytes": 138271821,
+    "status": "ready"
+  },
+  {
+    "id": "7df7f11ae8a9",
+    "kind": "video",
+    "src": "video/module1/16_short.mp4",
+    "bytes": 12560120,
+    "status": "ready"
+  },
+  {
+    "id": "a55816c8f2be",
+    "kind": "video",
+    "src": "video/module1/锁屏岛亮点.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "0192aff425a2",
+    "kind": "video",
+    "src": "video/module7/锁屏岛.mp4",
+    "bytes": 85874932,
+    "status": "ready"
+  },
+  {
+    "id": "41350b11d31f",
+    "kind": "video",
+    "src": "video/v2/module7/锁屏岛左右切换.mp4",
+    "bytes": 2256572,
+    "status": "ready"
+  },
+  {
+    "id": "143dc9c07dc2",
+    "kind": "video",
+    "src": "video/v2/module7/上下拖拽.mp4",
+    "bytes": 13194026,
+    "status": "ready"
+  },
+  {
+    "id": "b12f8fb4ba56",
+    "kind": "video",
+    "src": "video/module2/开篇.mp4",
+    "bytes": 19734235,
+    "status": "ready"
+  },
+  {
+    "id": "2289132d7fe2",
+    "kind": "video",
+    "src": "video/module2/无缝位移.mp4",
+    "bytes": 18781380,
+    "status": "ready"
+  },
+  {
+    "id": "d1d3e2f1824e",
+    "kind": "video",
+    "src": "video/module2/无缝拖拽.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "66f62ef47a2b",
+    "kind": "video",
+    "src": "video/module2/无缝缩放.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "fa6e9ab16d3a",
+    "kind": "video",
+    "src": "video/module2/全搜.mp4",
+    "bytes": 13372868,
+    "status": "ready"
+  },
+  {
+    "id": "9e21b47f0c8b",
+    "kind": "video",
+    "src": "video/module2/大图标.mp4",
+    "bytes": 14999863,
+    "status": "ready"
+  },
+  {
+    "id": "74d125e0f434",
+    "kind": "video",
+    "src": "video/module2/桌面.mp4",
+    "bytes": 10771970,
+    "status": "ready"
+  },
+  {
+    "id": "854428ee5cbc",
+    "kind": "video",
+    "src": "video/module2/负一屏.mp4",
+    "bytes": 6267841,
+    "status": "ready"
+  },
+  {
+    "id": "eb9590472669",
+    "kind": "video",
+    "src": "video/module2/抽屉.mp4",
+    "bytes": 20411015,
+    "status": "ready"
+  },
+  {
+    "id": "d1bbba9d26e8",
+    "kind": "video",
+    "src": "video/module2/六个零.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "f9c2686c8598",
+    "kind": "video",
+    "src": "video/v1/module3/记大师参数.mp4",
+    "bytes": 5774099,
+    "status": "ready"
+  },
+  {
+    "id": "cddb31b50698",
+    "kind": "video",
+    "src": "video/module3/取餐码.mp4",
+    "bytes": 12550626,
+    "status": "ready"
+  },
+  {
+    "id": "eae5e49f6aeb",
+    "kind": "video",
+    "src": "video/module3/记视频.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "0af70c1eb6e6",
+    "kind": "video",
+    "src": "video/module3/记账单.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "20378a7671c5",
+    "kind": "video",
+    "src": "video/module3/随口记.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "0c402272b37d",
+    "kind": "video",
+    "src": "video/module3/记多图.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "931356fec366",
+    "kind": "video",
+    "src": "video/module3/实景对话.mp4",
+    "bytes": 12649917,
+    "status": "ready"
+  },
+  {
+    "id": "f76681c51b36",
+    "kind": "video",
+    "src": "video/module3/人像补光.mp4",
+    "bytes": 2826486,
+    "status": "ready"
+  },
+  {
+    "id": "dff3f8ea3c87",
+    "kind": "video",
+    "src": "video/module3/视觉交互.mp4",
+    "bytes": 5701386,
+    "status": "ready"
+  },
+  {
+    "id": "ad937abe7cc4",
+    "kind": "video",
+    "src": "video/module3/实况三拼图.mp4",
+    "bytes": 5757747,
+    "status": "ready"
+  },
+  {
+    "id": "572ee151013d",
+    "kind": "video",
+    "src": "video/module3/实况慢动作.mp4",
+    "bytes": 4437768,
+    "status": "ready"
+  },
+  {
+    "id": "7e1a04c1cdb6",
+    "kind": "video",
+    "src": "video/module3/视频剪辑.mp4",
+    "bytes": 5454282,
+    "status": "ready"
+  },
+  {
+    "id": "75994fa0f6c4",
+    "kind": "video",
+    "src": "video/module3/块编辑.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "ef2757d07a1e",
+    "kind": "video",
+    "src": "video/module3/AI菜单翻译.mp4",
+    "bytes": 14846396,
+    "status": "ready"
+  },
+  {
+    "id": "dac05ccecee8",
+    "kind": "video",
+    "src": "video/module3/旅行合集.mp4",
+    "bytes": 16727062,
+    "status": "ready"
+  },
+  {
+    "id": "a9636a3f24b6",
+    "kind": "video",
+    "src": "video/module3/知识合集.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "cbee2f11f994",
+    "kind": "video",
+    "src": "video/module4/光设计开篇.mp4",
+    "bytes": 8560073,
+    "status": "ready"
+  },
+  {
+    "id": "726aa0c34b8d",
+    "kind": "video",
+    "src": "video/module4/lightDesign.mp4",
+    "bytes": 71556154,
+    "status": "ready"
+  },
+  {
+    "id": "7cbcdc6b0d19",
+    "kind": "video",
+    "src": "video/module4/光场设计.mp4",
+    "bytes": 650830,
+    "status": "ready"
+  },
+  {
+    "id": "fe6c78365f44",
+    "kind": "video",
+    "src": "video/module4/实况景深.mp4",
+    "bytes": 4231434,
+    "status": "ready"
+  },
+  {
+    "id": "a9e5e4e05532",
+    "kind": "video",
+    "src": "video/module4/光影动效.mp4",
+    "bytes": 9950380,
+    "status": "ready"
+  },
+  {
+    "id": "b104dd3647e6",
+    "kind": "video",
+    "src": "video/module4/创造.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "456f48c164d9",
+    "kind": "video",
+    "src": "video/module4/图标拖拽.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "1ee1832aca92",
+    "kind": "video",
+    "src": "video/module4/实况壁纸PC.mp4",
+    "bytes": 13951639,
+    "status": "ready"
+  },
+  {
+    "id": "821e8d3f0a6c",
+    "kind": "video",
+    "src": "video/module5/无缝开篇.mp4",
+    "bytes": 1366902,
+    "status": "ready"
+  },
+  {
+    "id": "77384932898b",
+    "kind": "video",
+    "src": "video/module5/一推一拉.mp4",
+    "bytes": 5459533,
+    "status": "ready"
+  },
+  {
+    "id": "1d980a769415",
+    "kind": "video",
+    "src": "video/module5/小窗变全屏.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "724aa6c52994",
+    "kind": "video",
+    "src": "video/module5/三分屏.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "4ea31a41b2a4",
+    "kind": "video",
+    "src": "video/module5/四指捏放.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "7cce9ad91ed8",
+    "kind": "video",
+    "src": "video/module5/手写计算器.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "672e6e8ed0d0",
+    "kind": "video",
+    "src": "video/module7/mob/锁屏岛.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "9ff30583d8e8",
+    "kind": "video",
+    "src": "video/module2/mob/无缝位移.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "cd83990b424a",
+    "kind": "video",
+    "src": "video/module2/mob/无缝拖拽.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "a4dcf15104a7",
+    "kind": "video",
+    "src": "video/module2/mob/无缝缩放.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "f0a76ad430d0",
+    "kind": "video",
+    "src": "video/module3/mob/块编辑.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "c7c91625034f",
+    "kind": "video",
+    "src": "video/module3/人像补光_移动端.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "1a3b203509ea",
+    "kind": "video",
+    "src": "video/v1/module3/mob/大师参数.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "ad70805065a7",
+    "kind": "video",
+    "src": "video/module3/mob/取餐码.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "e9256b3cf5a6",
+    "kind": "video",
+    "src": "video/module3/mob/记视频.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "b4d4604e2699",
+    "kind": "video",
+    "src": "video/module3/mob/随口记.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "5f7223109ee3",
+    "kind": "video",
+    "src": "video/module4/实况壁纸.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "2569ac63d3d4",
+    "kind": "video",
+    "src": "video/module4/mob/卡片拖拽.mp4",
+    "bytes": 0,
+    "status": "missing"
+  },
+  {
+    "id": "c4fa25d34ae7",
+    "kind": "video",
+    "src": "video/module4/mob/灵感文案.mp4",
+    "bytes": 0,
+    "status": "missing"
+  }
+]

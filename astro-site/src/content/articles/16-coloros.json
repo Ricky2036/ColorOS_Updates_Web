@@ -1,0 +1,60 @@
+{
+  "articleId": "过年不停更，ColorOS_一月体验升级来了！",
+  "order": 16,
+  "title": "过年不停更，ColorOS 一月体验升级来了！",
+  "brand": "coloros",
+  "year": 2025,
+  "publishedAt": "2025-01-01",
+  "slug": "16-coloros",
+  "kind": "gallery",
+  "legacyPath": "过年不停更，ColorOS_一月体验升级来了！.html",
+  "html": "<section class=\"card\">\n                <div class=\"card-body\">\n          <div class=\"image-gallery\">\n            <img loading=\"eager\" decoding=\"async\" fetchpriority=\"high\" width=\"1080\" height=\"1714\" src=\"../../../assets/responsive/707278709b1399d4-960.webp\" alt=\"过年不停更，ColorOS 一月体验升级来了！ 更新配图\" srcset=\"../../../assets/responsive/707278709b1399d4-480.webp 480w, ../../../assets/responsive/707278709b1399d4-960.webp 960w, ../../../assets/responsive/707278709b1399d4-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n            <img loading=\"lazy\" decoding=\"async\" width=\"1080\" height=\"8980\" src=\"../../../assets/responsive/86a9ff68d213471e-960.webp\" alt=\"过年不停更，ColorOS 一月体验升级来了！ 更新配图\" srcset=\"../../../assets/responsive/86a9ff68d213471e-480.webp 480w, ../../../assets/responsive/86a9ff68d213471e-960.webp 960w, ../../../assets/responsive/86a9ff68d213471e-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n            <img loading=\"lazy\" decoding=\"async\" width=\"1080\" height=\"6597\" src=\"../../../assets/responsive/d61902d90b216c99-960.webp\" alt=\"过年不停更，ColorOS 一月体验升级来了！ 更新配图\" srcset=\"../../../assets/responsive/d61902d90b216c99-480.webp 480w, ../../../assets/responsive/d61902d90b216c99-960.webp 960w, ../../../assets/responsive/d61902d90b216c99-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n            <img loading=\"lazy\" decoding=\"async\" width=\"1080\" height=\"4882\" src=\"../../../assets/responsive/7cb43330f18150ea-960.webp\" alt=\"过年不停更，ColorOS 一月体验升级来了！ 更新配图\" srcset=\"../../../assets/responsive/7cb43330f18150ea-480.webp 480w, ../../../assets/responsive/7cb43330f18150ea-960.webp 960w, ../../../assets/responsive/7cb43330f18150ea-1440.webp 1080w\" sizes=\"(max-width: 760px) 100vw, 760px\">\n          </div>\n\n        </div>\n    </section>",
+  "cover": {
+    "src": "assets/covers/07425ff7b6211327-1200.webp",
+    "srcset": "assets/covers/07425ff7b6211327-480.webp 480w, assets/covers/07425ff7b6211327-800.webp 800w, assets/covers/07425ff7b6211327-1200.webp 1200w",
+    "avifSrcset": "assets/covers/07425ff7b6211327-480.avif 480w, assets/covers/07425ff7b6211327-800.avif 800w, assets/covers/07425ff7b6211327-1200.avif 1200w",
+    "width": 1200,
+    "height": 675,
+    "alt": "过年不停更，ColorOS 一月体验升级来了！ 封面",
+    "dominantColor": "#c80808",
+    "focalPoint": "50% 0%"
+  },
+  "media": [
+    {
+      "id": "707278709b13",
+      "kind": "image",
+      "src": "assets/responsive/707278709b1399d4-960.webp",
+      "width": 1080,
+      "height": 1714,
+      "bytes": 104062,
+      "status": "ready"
+    },
+    {
+      "id": "86a9ff68d213",
+      "kind": "image",
+      "src": "assets/responsive/86a9ff68d213471e-960.webp",
+      "width": 1080,
+      "height": 8980,
+      "bytes": 475828,
+      "status": "ready"
+    },
+    {
+      "id": "d61902d90b21",
+      "kind": "image",
+      "src": "assets/responsive/d61902d90b216c99-960.webp",
+      "width": 1080,
+      "height": 6597,
+      "bytes": 217562,
+      "status": "ready"
+    },
+    {
+      "id": "7cb43330f181",
+      "kind": "image",
+      "src": "assets/responsive/7cb43330f18150ea-960.webp",
+      "width": 1080,
+      "height": 4882,
+      "bytes": 363372,
+      "status": "ready"
+    }
+  ]
+}
